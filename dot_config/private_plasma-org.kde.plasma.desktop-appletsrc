@@ -27,6 +27,8 @@ PreloadWeight=0
 [Containments][47][General]
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=559
+positions={"1920x1080":[]}
+sortMode=-1
 
 [Containments][47][Wallpaper][org.kde.image][General]
 Image=/usr/share/wallpapers/Next/
@@ -65,7 +67,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][48][Applets][75][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:thorium-browser.desktop,preferred://filemanager,applications:org.wezfurlong.wezterm.desktop,applications:blender.desktop,applications:org.inkscape.Inkscape.desktop,applications:godot.desktop,applications:gimp.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:calibre-gui.desktop
+launchers=applications:systemsettings.desktop,applications:thorium-browser.desktop,preferred://filemanager,applications:org.wezfurlong.wezterm.desktop,file:///usr/share/applications/libreoffice-writer.desktop,file:///usr/share/applications/libreoffice-calc.desktop,file:///usr/share/applications/libreoffice-impress.desktop,applications:blender.desktop,applications:org.inkscape.Inkscape.desktop,applications:godot.desktop,applications:gimp.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:net.lutris.Lutris.desktop,applications:calibre-gui.desktop
 
 [Containments][48][Applets][76]
 immutability=1
@@ -133,12 +135,16 @@ DialogWidth=680
 compactPreviewCount=0
 history=#e9e7e6,#363636,#2d2d2d,#363636
 
+[Containments][48][Applets][97]
+immutability=1
+plugin=org.kde.plasma.showdesktop
+
 [Containments][48][ConfigDialog]
 DialogHeight=74
 DialogWidth=1920
 
 [Containments][48][General]
-AppletOrder=55;96;77;88;75;76;80
+AppletOrder=55;96;77;88;75;76;80;97
 
 [Containments][56]
 activityId=
@@ -163,7 +169,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][56][Applets][59][Configuration]
-PreloadWeight=70
+PreloadWeight=75
 
 [Containments][56][Applets][59][Configuration][General]
 migrated=true
@@ -209,14 +215,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][56][Applets][69][Configuration]
-PreloadWeight=60
+PreloadWeight=65
 
 [Containments][56][Applets][78]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][56][Applets][78][Configuration]
-PreloadWeight=30
+PreloadWeight=22
 
 [Containments][56][Applets][94]
 immutability=1
@@ -249,3 +255,4 @@ theming=2
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=

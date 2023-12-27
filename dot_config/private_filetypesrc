@@ -1,4 +1,5 @@
 [EmbedSettings]
+embed-application/x-zerosize=false
 embed-image/svg+xml=false
 embed-text/plain=false
 embed-text/x-lua=false
