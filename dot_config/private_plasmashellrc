@@ -1,6 +1,9 @@
 [KPropertiesDialog]
 1920x1080 screen: Height=447
-1920x1080 screen: Width=630
+1920x1080 screen: Width=442
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=44

@@ -6,6 +6,23 @@ Id_1=fb393c06-3185-4e6e-a744-376a273eea01
 Number=1
 Rows=1
 
+[Effect-kwin4_effect_translucency]
+ComboboxPopups=43
+Dialogs=48
+Inactive=39
+Menus=47
+MoveResize=41
+
+[Effect-windowview]
+BorderActivateAll=9
+
+[Plugins]
+kwin4_effect_eyeonscreenEnabled=true
+kwin4_effect_rubberband_maximizeEnabled=false
+kwin4_effect_windowapertureEnabled=false
+wobblywindowsEnabled=true
+zoomEnabled=false
+
 [Tiling]
 padding=4
 
@@ -18,4 +35,6 @@ Scale=1
 [org.kde.kdecoration2]
 BorderSize=Tiny
 BorderSizeAuto=false
+ButtonsOnLeft=
+library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Big Sur Dark

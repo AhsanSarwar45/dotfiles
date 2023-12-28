@@ -8,8 +8,10 @@ set -gx VISUAL nvim
 
 set -g theme_display_date no
 set -g theme_nerd_fonts yes
-
-
-# bun
 set --export BUN_INSTALL "$HOME/.bun"
-set --export PATH $BUN_INSTALL/bin $PATH
+# set -g theme_color_scheme user
+
+fish_add_path -g /opt/flutter/bin/
+fish_add_path -g ~/.bun/bin/
+# bun
+nvm use 21 -s

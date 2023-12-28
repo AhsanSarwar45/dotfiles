@@ -136,12 +136,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=120,120,120
 
 [DirSelect Dialog]
-DirSelectDialog Size=980,600
-History Items[$e]=file:$HOME/Games/Steam,file:///run/media/ahsan/Data/Games,file:$HOME/Downloads/WhiteSur/WhiteSur
+DirSelectDialog Size=794,570
+History Items[$e]=file:$HOME/SteamLibrary,file:$HOME/Games/Steam,file:///run/media/ahsan/Data/Games,file:$HOME/Downloads/WhiteSur/WhiteSur
 
 [General]
 AccentColor=25,94,220
-ColorSchemeHash=7910c789135ef38006b7315192f4484fb197512f
+ColorSchemeHash=d55f35f1399eac7e2ecb03b7092ec83d6b77db78
 LastUsedCustomAccentColor=25,94,220
 TerminalApplication=wezterm start --cwd .
 TerminalService=org.wezfurlong.wezterm.desktop
@@ -158,8 +158,7 @@ toolBarFont=SF Pro Display,10,-1,5,57,0,0,0,0,0,Medium
 Theme=Tela-blue-dark
 
 [KDE]
-AnimationDurationFactor=0.5
-LookAndFeelPackage=com.github.vinceliuice.ChromeOS-dark
+AnimationDurationFactor=0.7071067811865475
 ScrollbarLeftClickNavigatesByPage=false
 ShowDeleteCommand=false
 SingleClick=false
@@ -177,7 +176,7 @@ Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=false
+Show hidden files=true
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false

@@ -16,4 +16,18 @@ M.add = {
   NvimTreeOpenedFolderName = { fg = "green", bold = true },
 }
 
+M.ui = {
+  changed_themes = {
+    onedark = {
+      base_16 = {
+        base0F = "pink",
+      },
+      base_30 = {
+        red = "#mycol",
+        white = "#mycol",
+      },
+    },
+  },
+}
+
 return M

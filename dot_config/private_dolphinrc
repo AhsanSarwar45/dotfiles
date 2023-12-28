@@ -5,7 +5,6 @@ update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detai
 
 [General]
 ShowSpaceInfo=false
-ShowStatusBar=false
 ShowZoomSlider=false
 Version=202
 ViewPropsTimestamp=2023,12,24,13,28,6.748
@@ -16,7 +15,7 @@ Places Icons Static Size=22
 
 [KPropertiesDialog]
 1920x1080 screen: Height=404
-1920x1080 screen: Width=436
+1920x1080 screen: Width=456
 
 [MainWindow]
 MenuBar=Disabled
