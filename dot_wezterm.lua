@@ -55,6 +55,7 @@ config.window_frame = {
 }
 
 config.default_cursor_style = "BlinkingBar"
+config.cursor_blink_rate = 350
 
 config.colors = {
 	-- The default text color

@@ -1,0 +1,29 @@
+[Added Associations]
+application/vnd.ms-htmlhelp=thorium-shell.desktop;
+application/x-zerosize=nvim.desktop;
+application/xhtml+xml=thorium-shell.desktop;calibre-ebook-edit.desktop;nvim.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;thorium-browser.desktop;
+image/jpeg=com.interversehq.qView.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=nvim.desktop;
+text/x-lua=nvim.desktop;
+x-scheme-handler/etcher=balena-etcher.desktop;
+x-scheme-handler/geo=openstreetmap-geo-handler.desktop;
+x-scheme-handler/http=;
+x-scheme-handler/https=;
+x-scheme-handler/logseq=logseq-desktop.desktop;Logseq.desktop;
+
+[Default Applications]
+application/vnd.ms-htmlhelp=thorium-shell.desktop;
+application/x-zerosize=nvim.desktop;
+application/xhtml+xml=thorium-shell.desktop;
+image/jpeg=com.interversehq.qView.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=nvim.desktop;
+text/x-lua=nvim.desktop;
+x-scheme-handler/etcher=balena-etcher.desktop
+x-scheme-handler/geo=openstreetmap-geo-handler.desktop;
+x-scheme-handler/http=;
+x-scheme-handler/https=;
+x-scheme-handler/logseq=logseq-desktop.desktop

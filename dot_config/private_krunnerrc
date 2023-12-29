@@ -1,0 +1,8 @@
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+PowerDevilEnabled=false
+
+[Runners][Dictionary]
+triggerWord=def

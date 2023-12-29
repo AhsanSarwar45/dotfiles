@@ -27,7 +27,7 @@ PreloadWeight=0
 [Containments][47][General]
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=559
-positions={"1920x1080":[]}
+positions={"1920x1080":[]\\,"1600x900":[""]}
 sortMode=-1
 
 [Containments][47][Wallpaper][org.kde.image][General]
@@ -42,6 +42,30 @@ lastScreen=0
 location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
+
+[Containments][48][Applets][105]
+immutability=1
+plugin=P-Connor.PlasmaDrawer
+
+[Containments][48][Applets][105][Configuration]
+PreloadWeight=100
+popupHeight=510
+popupWidth=655
+
+[Containments][48][Applets][105][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][48][Applets][105][Configuration][General]
+activationIndicator=false
+animationSpeedMultiplier=1.4000000000000004
+backgroundOpacity=80
+enableGreeting=false
+favoritesPortedToKAstats=true
+floating=true
+launcherPosition=2
+showActionButtonCaptions=false
+systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][48][Applets][55]
 immutability=1
@@ -67,7 +91,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][48][Applets][75][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:thorium-browser.desktop,preferred://filemanager,applications:org.wezfurlong.wezterm.desktop,file:///usr/share/applications/libreoffice-writer.desktop,file:///usr/share/applications/libreoffice-calc.desktop,file:///usr/share/applications/libreoffice-impress.desktop,applications:blender.desktop,applications:org.inkscape.Inkscape.desktop,applications:godot.desktop,applications:gimp.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:net.lutris.Lutris.desktop,applications:calibre-gui.desktop
+launchers=applications:systemsettings.desktop,applications:thorium-browser.desktop,preferred://filemanager,applications:org.wezfurlong.wezterm.desktop,file:///usr/share/applications/libreoffice-writer.desktop,file:///usr/share/applications/libreoffice-calc.desktop,file:///usr/share/applications/libreoffice-impress.desktop,applications:blender.desktop,applications:org.inkscape.Inkscape.desktop,applications:godot.desktop,applications:org.kde.kdenlive.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:net.lutris.Lutris.desktop,applications:calibre-gui.desktop,applications:org.gnome.Rhythmbox3.desktop
 
 [Containments][48][Applets][76]
 immutability=1
@@ -104,22 +128,6 @@ DialogWidth=720
 [Containments][48][Applets][80][Configuration][Configuration]
 PreloadWeight=60
 
-[Containments][48][Applets][88]
-immutability=1
-plugin=org.kde.plasma.kickoff
-
-[Containments][48][Applets][88][Configuration]
-PreloadWeight=100
-popupHeight=510
-popupWidth=655
-
-[Containments][48][Applets][88][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][48][Applets][88][Configuration][General]
-favoritesPortedToKAstats=true
-
 [Containments][48][Applets][96]
 immutability=1
 plugin=org.kde.plasma.colorpicker
@@ -148,7 +156,7 @@ DialogHeight=74
 DialogWidth=1920
 
 [Containments][48][General]
-AppletOrder=55;96;77;88;75;76;80;97
+AppletOrder=55;96;77;105;75;76;80;97
 
 [Containments][56]
 activityId=
@@ -215,14 +223,14 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][56][Applets][68][Configuration]
-PreloadWeight=55
+PreloadWeight=47
 
 [Containments][56][Applets][69]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][56][Applets][69][Configuration]
-PreloadWeight=80
+PreloadWeight=90
 
 [Containments][56][Applets][78]
 immutability=1

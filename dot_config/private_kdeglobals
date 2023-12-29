@@ -151,7 +151,7 @@ XftSubPixel=rgb
 fixed=Fira Code,10,-1,5,50,0,0,0,0,0
 font=SF Pro Display,10,-1,5,50,0,0,0,0,0
 menuFont=SF Pro Display,10,-1,5,57,0,0,0,0,0,Medium
-smallestReadableFont=SF Pro Display,8,-1,5,57,0,0,0,0,0,Medium
+smallestReadableFont=SF Pro Text,8,-1,5,50,0,0,0,0,0
 toolBarFont=SF Pro Display,10,-1,5,57,0,0,0,0,0,Medium
 
 [Icons]

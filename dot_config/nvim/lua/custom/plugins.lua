@@ -57,6 +57,15 @@ local plugins = {
   -- {
   --   "akinsho/flutter-tools.nvim",
   --   lazy = false,
+  --   dependencies = {
+  --     "nvim-lua/plenary.nvim",
+  --     "stevearc/dressing.nvim", -- optional for vim.ui.select
+  --   },
+  --   config = true,
+  -- },
+  -- {
+  --   "akinsho/flutter-tools.nvim",
+  --   lazy = false,
   --   dependencies = { "nvim-lua/plenary.nvim" },
   --   config = function()
   --     require("flutter-tools").setup {}
@@ -75,8 +84,21 @@ local plugins = {
   },
   {
     "zbirenbaum/copilot.lua",
+    cmd = "Copilot",
     event = "InsertEnter",
-    opts = overrides.copilot,
+    config = function()
+      require("copilot").setup {
+        suggestion = { enabled = false },
+        panel = { enabled = false },
+      }
+    end,
+  },
+
+  {
+    "zbirenbaum/copilot-cmp",
+    config = function()
+      require("copilot_cmp").setup()
+    end,
   },
 
   {
@@ -84,9 +106,6 @@ local plugins = {
     dependencies = {
       {
         "zbirenbaum/copilot-cmp",
-        config = function()
-          require("copilot_cmp").setup()
-        end,
       },
     },
     opts = {
@@ -100,20 +119,6 @@ local plugins = {
       },
     },
   },
-
-  -- To make a plugin not be loaded
-  -- {
-  --   "NvChad/nvim-colorizer.lua",
-  --   enabled = false
-  -- },
-
-  -- All NvChad plugins are lazy-loaded by default
-  -- For a plugin to be loaded, you will need to set either `ft`, `cmd`, `keys`, `event`, or set `lazy = false`
-  -- If you want a plugin to load on startup, add `lazy = false` to a plugin spec, for example
-  -- {
-  --   "mg979/vim-visual-multi",
-  --   lazy = false,
-  -- }
 }
 
 return plugins

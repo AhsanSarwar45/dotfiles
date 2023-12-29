@@ -9,9 +9,13 @@ set -gx VISUAL nvim
 set -g theme_display_date no
 set -g theme_nerd_fonts yes
 set --export BUN_INSTALL "$HOME/.bun"
+set --export JAVA_HOME "/usr/lib/jvm/java-17-openjdk/"
+set --export CHROME_EXECUTABLE "/usr/bin/thorium-shell"
 # set -g theme_color_scheme user
 
 fish_add_path -g /opt/flutter/bin/
-fish_add_path -g ~/.bun/bin/
+fish_add_path -g "$BUN_INSTALL/bin/"
+fish_add_path -g "$JAVA_HOME/bin"
+
 # bun
 nvm use 21 -s

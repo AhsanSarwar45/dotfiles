@@ -1,5 +1,5 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/dev/chesseru/static/fonts/,$HOME/Downloads/
+DirHistory[$e]=$HOME/Music/,$HOME/dev/chesseru/static/fonts/,$HOME/Downloads/
 
 [Extraction]
 closeAfterExtraction=true
@@ -11,10 +11,9 @@ ShowSidebar=true
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME,file:$HOME/dev/chesseru/static/fonts
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:///run/media/ahsan/Data/Downloads/,file:$HOME/dev/chesseru/static/fonts/
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/dev/chesseru/static/fonts/,file:$HOME/Music/
 detailViewIconSize=16
 
 [MainWindow]
 State=AAAA/wAAAAD9AAAAAQAAAAEAAACYAAACDfwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAqAAACDQAAAGcA///+AAADFwAAAg0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
-StatusBar=Disabled
 ToolBarsMovable=Disabled

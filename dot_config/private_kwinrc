@@ -6,6 +6,9 @@ Id_1=fb393c06-3185-4e6e-a744-376a273eea01
 Number=1
 Rows=1
 
+[Effect-diminactive]
+Strength=10
+
 [Effect-kwin4_effect_translucency]
 ComboboxPopups=43
 Dialogs=48
@@ -17,9 +20,16 @@ MoveResize=41
 BorderActivateAll=9
 
 [Plugins]
+blurEnabled=true
+contrastEnabled=true
+desktopgridEnabled=false
 kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_rubberband_maximizeEnabled=false
 kwin4_effect_windowapertureEnabled=false
+overviewEnabled=false
+screenedgeEnabled=false
+tileseditorEnabled=false
+windowviewEnabled=false
 wobblywindowsEnabled=true
 zoomEnabled=false
 
@@ -27,7 +37,7 @@ zoomEnabled=false
 padding=4
 
 [Tiling][00f3e731-d610-51ae-b553-0a2f6915e5b4]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.375},{"width":0.375},{"width":0.25}]}
 
 [Xwayland]
 Scale=1
