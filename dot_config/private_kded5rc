@@ -32,16 +32,16 @@ autoload=false
 autoload=false
 
 [Module-keyboard]
-autoload=true
+autoload=false
 
 [Module-khotkeys]
 autoload=true
 
 [Module-kscreen]
-autoload=true
+autoload=false
 
 [Module-ksysguard]
-autoload=true
+autoload=false
 
 [Module-ktimezoned]
 autoload=true

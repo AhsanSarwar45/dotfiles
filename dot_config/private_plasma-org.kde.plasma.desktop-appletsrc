@@ -230,7 +230,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][56][Applets][69][Configuration]
-PreloadWeight=90
+PreloadWeight=95
 
 [Containments][56][Applets][78]
 immutability=1
