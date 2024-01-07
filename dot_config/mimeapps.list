@@ -1,8 +1,11 @@
 [Added Associations]
 application/vnd.ms-htmlhelp=thorium-shell.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
 application/x-zerosize=nvim.desktop;
 application/xhtml+xml=thorium-shell.desktop;calibre-ebook-edit.desktop;nvim.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;thorium-browser.desktop;
+application/xml=nvim.desktop;
 image/jpeg=com.interversehq.qView.desktop;
+image/png=com.interversehq.qView.desktop;
 image/svg+xml=org.inkscape.Inkscape.desktop;
 inode/directory=org.kde.dolphin.desktop;
 text/plain=nvim.desktop;
@@ -16,9 +19,12 @@ x-scheme-handler/logseq=logseq-desktop.desktop;Logseq.desktop;
 
 [Default Applications]
 application/vnd.ms-htmlhelp=thorium-shell.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
 application/x-zerosize=nvim.desktop;
 application/xhtml+xml=thorium-shell.desktop;
+application/xml=nvim.desktop;
 image/jpeg=com.interversehq.qView.desktop;
+image/png=com.interversehq.qView.desktop;
 image/svg+xml=org.inkscape.Inkscape.desktop;
 inode/directory=org.kde.dolphin.desktop;
 text/plain=nvim.desktop;

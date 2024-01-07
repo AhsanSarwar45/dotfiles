@@ -1,0 +1,13 @@
+bind common <key> clear2
+bind -f common } vol -0 -1%
+bind -f common A add ~/Music
+bind common A add
+add ~/Music
+d
+colorscheme default
+colorscheme default\
+add
+q
+h
+quit
+a ~/Music

@@ -1,0 +1,34 @@
+[colors]
+	foreground = "silver"
+	background = "#0F0F17"
+	cursor_bg = "#5e99f1"
+	cursor_fg = "black"
+	cursor_border = "#5e99f1"
+	selection_fg = "#dddddd"
+	selection_bg = "#2f3142"
+	scrollbar_thumb = "#222222"
+	split = "#444444"
+	ansi = [
+		"black",
+		"#ef596e",
+		"#89ca79",
+		"#e5c07b",
+		"#5e99f1",
+		"#de63ee",
+		"#56e2ef",
+		"silver",
+	]
+	brights = [
+		"grey",
+		"#ef596e",
+		"#89ca79",
+		"#e5c07b",
+		"#5e99f1",
+		"#de63ee",
+		"#56e2ef",
+		"white",
+	]
+
+[metadata]
+author = 'Ahsan Sarwar'
+name = 'OneDarker'

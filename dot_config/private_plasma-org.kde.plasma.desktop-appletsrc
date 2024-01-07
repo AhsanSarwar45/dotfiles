@@ -7,6 +7,7 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][47]
+ItemGeometries-1366x768=
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
 activityId=eb1ef055-01da-4fe4-9437-bdd54c886267
@@ -26,8 +27,8 @@ PreloadWeight=0
 
 [Containments][47][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=559
-positions={"1920x1080":[]\\,"1600x900":[""]}
+ToolBoxButtonX=405
+positions={"1920x1080":[]\\,"1600x900":[""]\\,"1366x768":[]}
 sortMode=-1
 
 [Containments][47][Wallpaper][org.kde.image][General]
@@ -153,7 +154,7 @@ plugin=org.kde.plasma.showdesktop
 
 [Containments][48][ConfigDialog]
 DialogHeight=74
-DialogWidth=1920
+DialogWidth=1366
 
 [Containments][48][General]
 AppletOrder=55;96;77;105;75;76;80;97
@@ -230,7 +231,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][56][Applets][69][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 
 [Containments][56][Applets][78]
 immutability=1
@@ -256,8 +257,9 @@ DialogWidth=720
 
 [Containments][56][General]
 extraItems=org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.nightcolorcontrol,org.kde.kscreen,org.kde.plasma.vault,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard
-hiddenItems=org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,qBittorrent,org.kde.plasma.battery,org.kde.plasma.bluetooth
+hiddenItems=org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,qBittorrent,org.kde.plasma.bluetooth
 knownItems=org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.nightcolorcontrol,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.manage-inputmethod,org.kde.plasma.battery
+shownItems=org.kde.plasma.battery
 
 [Containments48Appletsts][66][Configuration][Appearance]
 fontFamily=Noto Sans

@@ -1,5 +1,6 @@
 local overrides = require "custom.configs.overrides"
-
+local on_attach = require("plugins.configs.lspconfig").on_attach
+local capabilities = require("plugins.configs.lspconfig").capabilities
 ---@type NvPluginSpec[]
 local plugins = {
 
@@ -54,15 +55,25 @@ local plugins = {
       require("spectre").setup()
     end,
   },
-  -- {
-  --   "akinsho/flutter-tools.nvim",
-  --   lazy = false,
-  --   dependencies = {
-  --     "nvim-lua/plenary.nvim",
-  --     "stevearc/dressing.nvim", -- optional for vim.ui.select
-  --   },
-  --   config = true,
-  -- },
+  {
+    "elkowar/yuck.vim",
+  },
+  {
+    "akinsho/flutter-tools.nvim",
+    lazy = false,
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+      "stevearc/dressing.nvim", -- optional for vim.ui.select
+    },
+    config = function()
+      require("flutter-tools").setup {
+        lsp = {
+          on_attach = on_attach,
+          capabilities = capabilities,
+        },
+      }
+    end,
+  },
   -- {
   --   "akinsho/flutter-tools.nvim",
   --   lazy = false,

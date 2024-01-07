@@ -155,7 +155,7 @@ smallestReadableFont=SF Pro Text,8,-1,5,50,0,0,0,0,0
 toolBarFont=SF Pro Display,10,-1,5,57,0,0,0,0,0,Medium
 
 [Icons]
-Theme=Tela-blue-dark
+Theme=OneDark
 
 [KDE]
 AnimationDurationFactor=0.7071067811865475

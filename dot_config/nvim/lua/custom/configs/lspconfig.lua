@@ -13,5 +13,16 @@ for _, lsp in ipairs(servers) do
   }
 end
 
+-- require("flutter-tools").setup {
+--   on_attach = on_attach,
+--   capabilities = capabilities,
+-- }
+
+-- lspconfig.dartls.setup {
+--   cmd = { "dart", "language-server", "--protocol=lsp" },
+--   on_attach = on_attach,
+--   capabilities = capabilities,
+-- }
+--
 --
 -- lspconfig.pyright.setup { blabla}

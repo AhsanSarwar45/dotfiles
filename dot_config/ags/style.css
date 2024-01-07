@@ -1,0 +1,229 @@
+window.bar {
+  /* background-color: #0f0f17; */
+  color: #ffffff;
+  border-radius: 12px;
+  font-size: 12px;
+  /* margin-top: 10px; */
+  /* min-height: 20px; */
+  font-family: "FiraCode Nerd Font", "Fira Code", "Fira Mono", monospace;
+}
+
+button {
+  min-width: 0px;
+  /* padding-left: 10px; */
+  /* padding-right: 12px; */
+  margin-top: 7px;
+  margin-bottom: 7px;
+  border: 0px;
+  /* box-shadow: 0px; */
+  /* outline: 0px; */
+  background-color: transparent;
+  background-image: none;
+}
+label {
+  font-weight: bold;
+}
+
+/* .element { */
+/* padding-left: 8px; */
+/* padding-right: 8px; */
+/* cursor: pointer; */
+/* } */
+
+.icon {
+  font-size: 14px;
+}
+
+.icon-large {
+  font-size: 20px;
+}
+
+.focused {
+  background-color: #5e99f1;
+  color: black;
+}
+
+.workspace-item {
+  padding-left: 3px;
+  padding-right: 4px;
+}
+
+button:hover {
+  background-color: #5e99f1;
+  color: black;
+}
+
+/* button:active { */
+/*   background-color: #5e99f1; */
+/*   color: black; */
+/* } */
+/**/
+.client-title {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.client-title:hover {
+  background-color: #89ca79;
+  color: black;
+}
+
+.client-title:hover .client-icon {
+  color: black;
+}
+
+.client-title-icon {
+  color: #89ca79;
+}
+
+.clock {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.clock:hover {
+  background-color: #56e2ef;
+  color: black;
+}
+
+.clock:hover .clock-icon {
+  color: black;
+}
+
+.clock-icon {
+  color: #56e2ef;
+}
+
+/* .clic */
+
+.notification {
+  /* color: ; */
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.notification-icon {
+  color: #5399f1;
+}
+
+.wifi {
+  color: #89ca79;
+}
+
+.wifi:hover {
+  background-color: #89ca79;
+  color: black;
+}
+
+.volume {
+  color: #e5c07b;
+}
+
+.volume:hover {
+  background-color: #e5c07b;
+  color: black;
+  /* transform: scale(1.5); */
+}
+
+.section {
+  /* background-color: #0f0f17; */
+  background-color: @theme_base_color;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-radius: 12px;
+}
+
+.circular-progress {
+  font-size: 3px;
+  min-width: 16px;
+  min-height: 16px;
+  /* margin: -4px; */
+  /* max-height: 16px; */
+  background-color: #303040;
+}
+
+.cpu {
+  color: #de63ee;
+}
+
+.media:hover {
+  background-color: #de63ee;
+  color: black;
+}
+
+.media:hover .media-icon {
+  color: black;
+}
+
+.media-icon {
+  color: #de63ee;
+}
+
+.cpu:hover {
+  background-color: #de63ee;
+  color: white;
+}
+
+.memory {
+  color: #ef596e;
+}
+
+.memory:hover {
+  background-color: #ef596e;
+  color: white;
+}
+
+/* progress, */
+/* highlight { */
+/*   min-height: 8px; */
+/* } */
+
+.launcher {
+  /* background-color: #0f0f17; */
+
+  background-color: @theme_base_color;
+  color: #ffffff;
+  /* opacity: 20; */
+  border-radius: 6px;
+  /* min-width: 1920px; */
+  /* min-height: 1080px; */
+  /* min-height: 100%; */
+  /* margin-top: 10px; */
+
+  /* font-family: "FiraCode Nerd Font", "Fira Code", "Fira Mono", monospace; */
+}
+
+/* .overlay { */
+/* background-color: #ffffff; */
+/* } */
+
+.launcher-list {
+  /* background-color: #0f0f17; */
+  /* color: #ffffff; */
+  /* border-radius: 12px; */
+  min-width: 500px;
+  min-height: 500px;
+}
+
+.launcher-list button:hover {
+  background-color: #5399f1;
+  color: black;
+}
+
+.launcher-item {
+  background-color: rgba(255, 255, 255, 0.04);
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  /* cursor: pointer; */
+}
+.launcher-container {
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 12px;
+  border: 2px solid #2f3142;
+}
