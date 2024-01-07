@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="edit-delete-remove.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.7725435"
+     inkscape:cx="3.8757289"
+     inkscape:cy="2.5648206"
+     inkscape:window-width="944"
+     inkscape:window-height="501"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#aaaaaa; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+  </defs>
+  <path
+     style="fill:#ef596e;fill-opacity:1.0"
+     class="ColorScheme-Text"
+     d="M 3.223,4.223 7,8 3.223,11.777 C 3.223,11.777 2.722,12.278 3.222,12.778 3.722,13.278 4.2227,12.777 4.2227,12.777 L 8,9 11.777,12.777 C 11.777,12.777 12.278,13.278 12.778,12.778 13.278,12.278 12.777,11.777 12.777,11.777 L 9,8 12.777,4.2228 C 12.777,4.2228 13.278,3.722 12.778,3.222 12.278,2.722 11.777,3.2228 11.777,3.2228 L 8,7 4.222,3.222 C 4.2227,3.2228 3.722,2.722 3.222,3.222 2.722,3.722 3.223,4.223 3.223,4.223 Z"
+     id="path1" />
+</svg>

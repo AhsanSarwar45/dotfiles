@@ -1,0 +1,46 @@
+/* @import url("resource:///org/gnome/theme/gtk-dark.css"); */
+
+.GtkMenuButton {
+  color: #ff0000;
+}
+
+.image-button {
+  padding: 4px;
+  /* color: #ff0000; */
+}
+
+.titlebar {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: #0f0f17;
+}
+
+.background {
+  background-color: #13131b;
+  /* padding: 12px; */
+}
+
+/* .button { */
+/*   background-color: #ffffff08; */
+/*   padding-left: 4px; */
+/*   padding-right: 4px; */
+/*   padding-top: 4px; */
+/*   padding-bottom: 4px; */
+/* } */
+
+.view {
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.frame {
+  background-color: #ffffff08;
+}
+
+GtkWindow {
+  background-color: magenta;
+}

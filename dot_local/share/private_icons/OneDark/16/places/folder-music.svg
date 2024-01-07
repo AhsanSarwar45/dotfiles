@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="folder-music.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.203125"
+     inkscape:cx="5.3198992"
+     inkscape:cy="13.541562"
+     inkscape:window-width="944"
+     inkscape:window-height="524"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#aaaaaa; } .ColorScheme-Highlight { color:#5677fc; }</style>
+  </defs>
+  <path
+     style="fill:#de63ee;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m7 1c-1.108 0-2 0.892-2 2v6.1797c-0.31917-0.11396-0.65543-0.17897-1-0.17969-1.6569 0-3 1.3431-3 3s1.3431 3 3 3 3-1.3431 3-3v-9h6v6.1797c-0.31917-0.11396-0.65543-0.17897-1-0.17969-1.6569 0-3 1.3431-3 3s1.3431 3 3 3 3-1.3431 3-3v-9c0-1.108-0.892-2-2-2zm-3 10c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm8 0c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z"
+     id="path1" />
+</svg>
