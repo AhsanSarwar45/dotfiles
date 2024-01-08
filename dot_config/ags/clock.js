@@ -10,7 +10,7 @@ export const Clock = () =>
       vpack: "center",
       children: [
         Widget.Icon({
-          icon: "appointment-soon-symbolic",
+          icon: "clock-applet-symbolic",
           class_names: ["clock-icon", "icon"],
         }),
         Widget.Label({

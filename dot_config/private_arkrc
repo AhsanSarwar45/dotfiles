@@ -1,22 +1,18 @@
 [ExtractDialog]
 1920x1080 screen: Window-Maximized=true
-DirHistory[$e]=$HOME/Downloads/,$HOME/Music/,$HOME/dev/chesseru/static/fonts/
-
-[Extraction]
-closeAfterExtraction=true
-openDestinationFolderAfterExtraction=true
+DirHistory[$e]=$HOME/downloads/
 
 [General]
 LockSidebar=true
 ShowSidebar=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME/dev/chesseru/static/fonts
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/dev/chesseru/static/fonts/,file:$HOME/Music/,file:$HOME/data/Downloads/
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/downloads/
 detailViewIconSize=16
 
 [MainWindow]
 1920x1080 screen: Window-Maximized=true
-State=AAAA/wAAAAD9AAAAAQAAAAEAAACYAAAB0vwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAA6AAAB0gAAAHIA///+AAABNQAAAdIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAC1AAADtvwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAABCAAADtgAAAHIA///+AAAC9AAAA7YAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 StatusBar=Disabled
 ToolBarsMovable=Disabled

@@ -1,7 +1,6 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/ahsan/.local/share/chezmoi
-- /home/ahsan/dev/chrono
 startuppopupversion: 5
 customcommandshistory:
 - q

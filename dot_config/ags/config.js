@@ -2,6 +2,7 @@ import App from "resource:///com/github/Aylur/ags/app.js";
 import Widget from "resource:///com/github/Aylur/ags/widget.js";
 import Hyprland from "resource:///com/github/Aylur/ags/service/hyprland.js";
 import { monitorFile } from "resource:///com/github/Aylur/ags/utils.js";
+import SystemTray from "resource:///com/github/Aylur/ags/service/systemtray.js";
 import { Launcher, launcher } from "./launcher.js";
 import { Clock } from "./clock.js";
 import { Notification } from "./notification.js";
@@ -68,10 +69,11 @@ const Right = () =>
         class_names: ["section"],
         children: [Media()],
       }),
-      ,
+     
       Widget.Box({
         class_names: ["section"],
         hpack: "end",
+        visible: SystemTray.bind("items").transform((items) => items.length > 0),
         spacing: 8,
         children: [SysTray()],
       }),

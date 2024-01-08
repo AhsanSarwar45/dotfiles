@@ -1,5 +1,6 @@
 [EmbedSettings]
 embed-application/vnd.openxmlformats-officedocument.wordprocessingml.document=false
+embed-application/x-theme=false
 embed-application/x-zerosize=false
 embed-application/xml=false
 embed-image/jpeg=false
