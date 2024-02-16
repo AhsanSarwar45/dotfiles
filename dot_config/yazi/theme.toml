@@ -31,19 +31,20 @@ border_style  = { fg = "gray" }
 syntect_theme = ""
 
 # : }}}
-
+folder_offset  = [ 2, 0, 2, 0 ]
+preview_offset = [ 2, 1, 2, 1 ]
 
 # : Status {{{
 
 [status]
 separator_open  = ""
 separator_close = ""
-separator_style = { fg = "darkgray", bg = "darkgray" }
+separator_style = { fg = "white", bg = "white", bold = true }
 
 # Mode
-mode_normal = { fg = "black", bg = "lightblue", bold = true }
-mode_select = { fg = "black", bg = "lightgreen", bold = true }
-mode_unset  = { fg = "black", bg = "lightmagenta", bold = true }
+mode_normal = { fg = "#000000", bg = "lightblue", bold = true }
+mode_select = { fg = "#000000", bg = "lightgreen", bold = true }
+mode_unset  = { fg = "#000000", bg = "lightmagenta", bold = true }
 
 # Progress
 progress_label  = { bold = true }

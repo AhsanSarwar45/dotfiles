@@ -990,10 +990,10 @@
      org.inkscape.output.png.inkscape.png_antialias="2" />
   <group
      id="desktop"
-     style="fill:#ff0000;paint-order:fill markers stroke;opacity:0.14207386">
+     style="fill:#d40000;paint-order:fill markers stroke;opacity:0.14207386">
     <group
-       width="1900"
-       height="1016"
+       width="813"
+       height="502"
        x="0"
        y="0"
        maximized="0"

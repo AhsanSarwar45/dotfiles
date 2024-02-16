@@ -176,3 +176,8 @@ open_offset = [ 0, 1, 50, 7 ]
 
 [log]
 enabled = false
+
+[plugins]
+preload = [
+	# "~/.config/yazi/ui.lua"
+]

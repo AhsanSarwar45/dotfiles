@@ -3,10 +3,17 @@ local M = {}
 
 M.general = {
   n = {
-    [";"] = { ":", "enter command mode", opts = { nowait = true } },
+    -- [">"] = { "V>gv", "Indent" },
+    -- ["<"] = { "V<gv", "Unindent" },
+    [";"] = { ":", "Enter command mode", opts = { nowait = true } },
+    ["<A-k>"] = { "ddkP", "Move line up" },
+    ["<A-j>"] = { "ddp", "Move line down" }
+
   },
   v = {
     [">"] = { ">gv", "indent" },
+    ["<"] = { "<gv", "indent" },
+
   },
 }
 
@@ -26,6 +33,12 @@ M.spectre = {
   },
   v = {
     ["<leader>fc"] = { '<esc><cmd>lua require("spectre").open_visual()<CR>', "Find current word in all files" },
+  },
+}
+
+M.lazygit = {
+  n = {
+    ["<leader>gg"] = { '<cmd> LazyGit <CR>', "Open lazygit" },
   },
 }
 

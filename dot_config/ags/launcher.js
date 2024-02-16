@@ -31,7 +31,7 @@ const AppItem = (app) =>
     }),
   });
 
-const Applauncher = ({ width = 500, height = 500, spacing = 2 }) => {
+const Applauncher = () => {
   // list of application buttons
   let applications = Applications.query("").map(AppItem);
 
@@ -100,19 +100,15 @@ export const launcher = Widget.Window({
   visible: false,
   class_names: ["launcher"],
   focusable: true,
-  child: Applauncher({
-    width: 500,
-    height: 100,
-    spacing: 12,
-  }),
+  child: Applauncher(),
 });
 
 export const Launcher = () =>
   Widget.Button({
-    class_name: "launcher",
+    class_name: "launcher-button",
     on_primary_click: () => launcher.show_now(),
     child: Widget.Icon({
-      class_names: ["icon-large"],
-      icon: "archlinux",
+      class_names: ["icon"],
+      icon: "preferences-desktop-apps-symbolic",
     }),
   });

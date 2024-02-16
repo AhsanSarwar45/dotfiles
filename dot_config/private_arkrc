@@ -1,18 +1,21 @@
 [ExtractDialog]
 1920x1080 screen: Window-Maximized=true
-DirHistory[$e]=$HOME/downloads/
+DirHistory[$e]=$HOME/ssd-games/,$HOME/downloads/,$HOME/pictures/,/opt/
+
+[Extraction]
+closeAfterExtraction=true
+openDestinationFolderAfterExtraction=true
 
 [General]
 LockSidebar=true
 ShowSidebar=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME
-Recent URLs[$e]=file:$HOME/downloads/
+Recent Files[$e]=file:$HOME,file:///opt
+Recent URLs[$e]=file:$HOME/downloads/,file:///opt/,file:$HOME/pictures/,file:$HOME/,file:$HOME/data/downloads/,file:$HOME/ssd-games/
 detailViewIconSize=16
 
 [MainWindow]
 1920x1080 screen: Window-Maximized=true
-State=AAAA/wAAAAD9AAAAAQAAAAEAAAC1AAADtvwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAABCAAADtgAAAHIA///+AAAC9AAAA7YAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
-StatusBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAEAAADMAAABlfwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAABCAAABlQAAAHIA///+AAAC3QAAAZUAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled

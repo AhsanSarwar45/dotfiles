@@ -1,5 +1,9 @@
 lastupdatecheck: 0
 recentrepos:
+- /home/ahsan/dev/chesseru
+- /home/ahsan/dev/dropella
+- /home/ahsan/data/dev/chesseru
+- /home/ahsan/data/dev/dropella
 - /home/ahsan/.local/share/chezmoi
 startuppopupversion: 5
 customcommandshistory:

@@ -69,7 +69,7 @@ const Right = () =>
         class_names: ["section"],
         children: [Media()],
       }),
-     
+
       Widget.Box({
         class_names: ["section"],
         hpack: "end",
@@ -80,7 +80,7 @@ const Right = () =>
       Widget.Box({
         class_names: ["section"],
         hpack: "end",
-        spacing: 8,
+        spacing: 2,
         children: [
           CpuProgress(),
           RamProgress(),
@@ -111,7 +111,7 @@ const Bar = (monitor = 0) =>
     }),
   });
 
-monitorFile(`${App.configDir}/style.css`, function () {
+monitorFile(`${App.configDir}/style.css`, function() {
   App.resetCss();
   App.applyCss(`${App.configDir}/style.css`);
 });

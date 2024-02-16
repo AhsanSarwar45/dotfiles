@@ -74,14 +74,14 @@ local plugins = {
       }
     end,
   },
-  -- {
-  --   "akinsho/flutter-tools.nvim",
-  --   lazy = false,
-  --   dependencies = { "nvim-lua/plenary.nvim" },
-  --   config = function()
-  --     require("flutter-tools").setup {}
-  --   end,
-  -- },
+  {
+    "kdheepak/lazygit.nvim",
+    -- optional for floating window border decorationfloatfloating
+    lazy = false,
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+    },
+  },
   {
     "folke/persistence.nvim",
     event = "BufReadPre", -- this will only start session saving when an actual file was opened
@@ -104,7 +104,11 @@ local plugins = {
       }
     end,
   },
+  {
+    'ThePrimeagen/vim-be-good',
+    lazy = false,
 
+  },
   {
     "zbirenbaum/copilot-cmp",
     config = function()
@@ -122,11 +126,11 @@ local plugins = {
     opts = {
       sources = {
         { name = "nvim_lsp", group_index = 2 },
-        { name = "copilot", group_index = 2 },
-        { name = "luasnip", group_index = 2 },
-        { name = "buffer", group_index = 2 },
+        { name = "copilot",  group_index = 2 },
+        { name = "luasnip",  group_index = 2 },
+        { name = "buffer",   group_index = 2 },
         { name = "nvim_lua", group_index = 2 },
-        { name = "path", group_index = 2 },
+        { name = "path",     group_index = 2 },
       },
     },
   },

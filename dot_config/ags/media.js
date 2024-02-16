@@ -3,15 +3,22 @@ import Mpris from "resource:///com/github/Aylur/ags/service/mpris.js";
 import { execAsync } from "resource:///com/github/Aylur/ags/utils.js";
 import { trimString } from "./utils.js";
 
+const getActivePlayer = (players) => {
+  const cmusIndex = players.findIndex((p) => p.name === "cmus");
+  return cmusIndex >= 0 ? players[cmusIndex] : players[0];
+
+}
+
 export const Media = () =>
   Widget.Button({
     class_name: "media",
-    on_primary_click: () =>
-      Mpris.getPlayer("") !== null
-        ? Mpris.getPlayer("")?.playPause()
-        : execAsync("wezterm -e cmus"),
-    on_scroll_up: () => Mpris.getPlayer("")?.next(),
-    on_scroll_down: () => Mpris.getPlayer("")?.previous(),
+    on_primary_click: () => {
+      const player = getActivePlayer(Mpris.players);
+      if (player) player.playPause()
+      else execAsync("wezterm -e cmus");
+    },
+    on_scroll_up: () => getActivePlayer(Mpris.players)?.next(),
+    on_scroll_down: () => getActivePlayer(Mpris.players)?.previous(),
     child: Widget.Box({
       vpack: "center",
       spacing: 12,
@@ -23,17 +30,13 @@ export const Media = () =>
         Widget.Label("-").hook(
           Mpris,
           (self) => {
-            print(Mpris.players.map((p) => p.name).join(", "));
-            const cmusIndex = Mpris.players.findIndex((p) => p.name === "cmus");
-            const player =
-              cmusIndex >= 0 ? Mpris.players[cmusIndex] : Mpris.players[0];
+            const player = getActivePlayer(Mpris.players);
             if (player) {
               self.label = trimString(
-                `${
-                  player.track_artists.length > 0 &&
+                `${player.track_artists.length > 0 &&
                   player.track_artists[0] != "Unknown artist"
-                    ? `${player.track_artists.join(", ")} - `
-                    : ""
+                  ? `${player.track_artists.join(", ")} - `
+                  : ""
                 }${player.track_title}`,
                 40,
               );
@@ -46,9 +49,7 @@ export const Media = () =>
         Widget.Icon().hook(
           Mpris,
           (self) => {
-            const cmusIndex = Mpris.players.findIndex((p) => p.name === "cmus");
-            const player =
-              cmusIndex >= 0 ? Mpris.players[cmusIndex] : Mpris.players[0];
+            const player = getActivePlayer(Mpris.players);
             if (!player) {
               self.icon = "media-playback-start-symbolic";
             } else {

@@ -19,3 +19,14 @@ fish_add_path -g "$JAVA_HOME/bin"
 
 # bun
 nvm use 21 -s
+
+# pnpm
+set -gx PNPM_HOME "/home/ahsan/.local/share/pnpm"
+if not string match -q -- $PNPM_HOME $PATH
+  set -gx PATH "$PNPM_HOME" $PATH
+end
+# pnpm end
+
+# bun
+set --export BUN_INSTALL "$HOME/.bun"
+set --export PATH $BUN_INSTALL/bin $PATH

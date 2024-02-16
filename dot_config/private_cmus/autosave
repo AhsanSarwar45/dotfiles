@@ -75,6 +75,7 @@ set input.flac.priority=50
 set input.modplug.priority=50
 set input.vorbis.priority=50
 set input.wav.priority=50
+set input.wavpack.priority=50
 set lib_add_filter=
 set lib_sort=albumartist date album discnumber tracknumber title filename play_count
 set mixer.alsa.channel=
@@ -104,7 +105,7 @@ set show_current_bitrate=false
 set show_hidden=false
 set show_playback_position=true
 set show_remaining_time=false
-set shuffle=off
+set shuffle=tracks
 set skip_track_info=false
 set smart_artist_sort=true
 set softvol=false
@@ -135,7 +136,7 @@ bind common 6 view filters
 bind common 7 view settings
 bind common = vol +10%
 bind common ? search-b-start
-bind common A add ~/Music
+bind common A add ~/music
 bind common B player-next-album
 bind common C toggle continue
 bind common D win-remove
