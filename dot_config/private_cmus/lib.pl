@@ -1,7 +1,17 @@
+/home/ahsan/music/Ice Spice - Princess Diana (with Nicki Minaj).mp3
+/home/ahsan/music/Lil Baby - Go Hard.mp3
+/home/ahsan/music/Tiësto, 21 Savage, BIA - BOTH.mp3
+/home/ahsan/music/Offset - Ric Flair Drip (with Metro Boomin).mp3
+/home/ahsan/music/21 Savage, Metro Boomin - Runnin.mp3
+/home/ahsan/music/21 Savage - redrum.mp3
+/home/ahsan/music/21 Savage, Lil Durk, Metro Boomin - dangerous.mp3
+/home/ahsan/music/24kGoldn - Mood (feat. iann dior).mp3
 /home/ahsan/music/7!! - ラヴァーズ.mp3
 /home/ahsan/music/a crowd of rebellion - M1917.mp3
+/home/ahsan/music/Age Of Love - The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix).mp3
 /home/ahsan/music/Aimer - Torches.mp3
 /home/ahsan/music/AK, Brenton Mattheus, Laura Brehm - Falling.mp3
+/home/ahsan/music/Alan Walker, Imanbek - Sweet Dreams.mp3
 /home/ahsan/music/Alec Benjamin - I Built a Friend.mp3
 /home/ahsan/music/Alec Benjamin - The Boy In The Bubble.mp3
 /home/ahsan/music/Alec Benjamin - Death Of A Hero.mp3
@@ -51,12 +61,22 @@
 /home/ahsan/music/Alec Benjamin - 黑色领结 (Nuance) [feat. 陈婧霏].mp3
 /home/ahsan/music/Alec Benjamin - Different Kind Of Beautiful.mp3
 /home/ahsan/music/Alec Benjamin - I Sent My Therapist To Therapy.mp3
+/home/ahsan/music/Alesso - When I’m Gone (with Katy Perry).mp3
+/home/ahsan/music/Alesso - Words (feat. Zara Larsson).mp3
 /home/ahsan/music/AliA - impulse.mp3
+/home/ahsan/music/Alok, Ella Eyre, Kenny Dope - Deep Down (feat. Never Dull).mp3
+/home/ahsan/music/Alok, Mondello'G, CERES, Tribbs - LET'S GET FKD UP.mp3
 /home/ahsan/music/Anevo, Laura Brehm - Universe.mp3
 /home/ahsan/music/Anly - カラノココロ.mp3
 /home/ahsan/music/Anna Yvette, Laura Brehm - Summer Never Ends.mp3
 /home/ahsan/music/Anonymouz - River.mp3
+/home/ahsan/music/Arcángel, Bad Bunny - La Jumpa.mp3
 /home/ahsan/music/Arc North, Laura Brehm, Rival - End of Time.mp3
+/home/ahsan/music/Arc North, Rival, Robbie Rosen - Loved With Your Love.mp3
+/home/ahsan/music/Arc North, Rival, CADMIUM - Coming Home.mp3
+/home/ahsan/music/Arc North, Rival, The Music Freaks, MIYA MIYA - Broken Roads.mp3
+/home/ahsan/music/Arc North, Rival, CADMIUM - Better.mp3
+/home/ahsan/music/Armani White - BILLIE EILISH..mp3
 /home/ahsan/music/ASIAN KUNG-FU GENERATION - リライト.mp3
 /home/ahsan/music/ASIAN KUNG-FU GENERATION - Re-Re-.mp3
 /home/ahsan/music/ASIAN KUNG-FU GENERATION - 遥か彼方.mp3
@@ -103,15 +123,35 @@
 /home/ahsan/music/Avicii - Heart Upon My Sleeve (feat. Imagine Dragons).mp3
 /home/ahsan/music/Avicii - Fades Away (feat. Noonie Bao).mp3
 /home/ahsan/music/Avicii, Sebastien Drums - My Feelings For You - Mark Knight Remix.mp3
+/home/ahsan/music/AYYBO - RIZZ.mp3
+/home/ahsan/music/Baby Keem - family ties (with Kendrick Lamar).mp3
+/home/ahsan/music/Bad Bunny, Jhayco - DÁKITI.mp3
+/home/ahsan/music/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
+/home/ahsan/music/Bad Bunny - Tití Me Preguntó.mp3
 /home/ahsan/music/BAND-MAID - DOMINATION.mp3
 /home/ahsan/music/BAND-MAID - Unleash!!!!!.mp3
 /home/ahsan/music/BAND-MAID - Sense.mp3
 /home/ahsan/music/BAND-MAID - Different.mp3
 /home/ahsan/music/Bea Miller - Playground (from the series Arcane League of Legends).mp3
+/home/ahsan/music/Bebe Rexha, David Guetta - One in a Million.mp3
+/home/ahsan/music/Becky Hill, David Guetta - Remember.mp3
 /home/ahsan/music/Ben Hicks, League of Legends - Hwei, the Visionary.mp3
+/home/ahsan/music/BENNETT - Vois sur ton chemin - Techno Mix.mp3
+/home/ahsan/music/Bizarrap - Quevedo- Bzrp Music Sessions, Vol. 52.mp3
+/home/ahsan/music/BLACKPINK - Pink Venom.mp3
+/home/ahsan/music/Blanke, Rival, KC - Heaven.mp3
+/home/ahsan/music/CADMIUM, Rogers & Dean - No Doubt - Rival x Cadmium Remix.mp3
 /home/ahsan/music/callah, Laura Brehm - skyline.mp3
 /home/ahsan/music/Camilo, Shawn Mendes - KESI - Remix.mp3
+/home/ahsan/music/cassö, RAYE, D-Block Europe - Prada.mp3
+/home/ahsan/music/Central Cee - Doja.mp3
+/home/ahsan/music/Central Cee - LET GO.mp3
+/home/ahsan/music/Chase & Status, Bou - Baddadan (feat. IRAH, Flowdan, Trigga & Takura).mp3
 /home/ahsan/music/CHEMISTRY - Period.mp3
+/home/ahsan/music/CHINCHILLA - Little Girl Gone.mp3
+/home/ahsan/music/Chris Jedi, Anuel AA, Chencho Corleone - La Llevo Al Cielo (Ft. Ñengo Flow).mp3
+/home/ahsan/music/Chris Lake - In The Yuma (feat. Aatig).mp3
+/home/ahsan/music/Chris Lorenzo - California Dreamin' (feat. High Jinx).mp3
 /home/ahsan/music/Christopher Larkin - Enter Hallownest.mp3
 /home/ahsan/music/Christopher Larkin - Dirtmouth.mp3
 /home/ahsan/music/Christopher Larkin - Crossroads.mp3
@@ -140,20 +180,41 @@
 /home/ahsan/music/Christopher Larkin - Hollow Knight.mp3
 /home/ahsan/music/cinema staff - Name of Love.mp3
 /home/ahsan/music/cinema staff - Great Escape - 2019 New Mix.mp3
+/home/ahsan/music/CJ - Whoopty.mp3
 /home/ahsan/music/CloudNone, Laura Brehm - Changed.mp3
+/home/ahsan/music/Coi Leray - Players.mp3
+/home/ahsan/music/Creeds - Push Up - Main Edit.mp3
 /home/ahsan/music/Curtis Harding, Jazmine Sullivan - Our Love (From the series Arcane League of Legends).mp3
+/home/ahsan/music/DaBaby - SHAKE SUMN.mp3
 /home/ahsan/music/Daisuke - Moshimo.mp3
 /home/ahsan/music/David Guetta, Avicii - Sunshine.mp3
+/home/ahsan/music/David Guetta, Bebe Rexha - I'm Good (Blue).mp3
+/home/ahsan/music/David Guetta, Anne-Marie, Coi Leray - Baby Don't Hurt Me.mp3
 /home/ahsan/music/Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia (from the series Arcane League of Legends).mp3
+/home/ahsan/music/Dimitri Vegas & Like Mike, Tiësto, Dido, W&W, Dimitri Vegas, Like Mike - Thank You (Not So Bad).mp3
 /home/ahsan/music/DOES - 紅蓮.mp3
+/home/ahsan/music/Doja Cat - Need to Know.mp3
+/home/ahsan/music/Doja Cat - Vegas (From the Original Motion Picture Soundtrack ELVIS).mp3
+/home/ahsan/music/Doja Cat - Paint The Town Red.mp3
+/home/ahsan/music/Dom Dolla, Clementine Douglas - Miracle Maker.mp3
+/home/ahsan/music/Don Toliver - Private Landing (feat. Justin Bieber & Future).mp3
+/home/ahsan/music/Drake - Jimmy Cooks (feat. 21 Savage).mp3
+/home/ahsan/music/Drake, 21 Savage - Rich Flex.mp3
+/home/ahsan/music/Drake - First Person Shooter (feat. J. Cole).mp3
+/home/ahsan/music/Drake - IDGAF (feat. Yeat).mp3
+/home/ahsan/music/Drake - Rich Baby Daddy (feat. Sexyy Red & SZA).mp3
 /home/ahsan/music/Draper, Laura Brehm - Pressure.mp3
 /home/ahsan/music/Draper, Laura Brehm - All I See.mp3
 /home/ahsan/music/Dream, Alec Benjamin - Change My Clothes.mp3
+/home/ahsan/music/Dua Lipa - Levitating (feat. DaBaby).mp3
 /home/ahsan/music/Eir Aoi - IGNITE.mp3
+/home/ahsan/music/Elley Duhé, Whethan - MONEY ON THE DASH.mp3
 /home/ahsan/music/Elliot Berger, Laura Brehm - Believe.mp3
 /home/ahsan/music/Elliot Berger, Laura Brehm - Back to You.mp3
 /home/ahsan/music/Elliot Berger, Laura Brehm - Diamond Sky.mp3
 /home/ahsan/music/ellis, Laura Brehm - Start Over - Frank Pole Remix.mp3
+/home/ahsan/music/Eminem - Godzilla (feat. Juice WRLD).mp3
+/home/ahsan/music/Eminem - Higher.mp3
 /home/ahsan/music/Ephixa, Laura Brehm - Losing You.mp3
 /home/ahsan/music/Ephixa, Laura Brehm - Deja Vu.mp3
 /home/ahsan/music/Eve - Dramaturgy.mp3
@@ -161,13 +222,24 @@
 /home/ahsan/music/Eve - FightSong.mp3
 /home/ahsan/music/Eve - Bokurano.mp3
 /home/ahsan/music/Evoke, Laura Brehm - Future Holds.mp3
+/home/ahsan/music/Farruko - Pepas.mp3
+/home/ahsan/music/TWISTED, Fast & Furious- The Fast Saga - WORTH NOTHING (feat. Oliver Tree) - Fast & Furious- Drift TapePhonk Vol 1.mp3
 /home/ahsan/music/Feint, Laura Brehm - We Won't Be Alone.mp3
 /home/ahsan/music/Feint, Laura Brehm - Words.mp3
 /home/ahsan/music/Feint, Laura Brehm - Defiant.mp3
 /home/ahsan/music/Feint, Laura Brehm - Solace.mp3
+/home/ahsan/music/Felix Jaehn, Ray Dalton - Call It Love.mp3
 /home/ahsan/music/FLOW - Sign.mp3
 /home/ahsan/music/F.O.O.L, Laura Brehm - Waking Up.mp3
+/home/ahsan/music/FOVOS - Lollipop.mp3
+/home/ahsan/music/Fred again.., Swedish House Mafia - Turn On The Lights again.. (feat. Future).mp3
+/home/ahsan/music/Fred again.., Skrillex, Four Tet - Baby again...mp3
+/home/ahsan/music/Fred again.., Baby Keem - leavemealone.mp3
+/home/ahsan/music/Future - PUFFIN ON ZOOTIEZ.mp3
+/home/ahsan/music/Gabry Ponte, LUM!X, Prezioso - Thunder.mp3
 /home/ahsan/music/George Michael, Queen - Somebody to Love.mp3
+/home/ahsan/music/Gunna, Future - pushin P (feat. Young Thug).mp3
+/home/ahsan/music/Gunna - fukumean.mp3
 /home/ahsan/music/haju-harmonics - Ember.mp3
 /home/ahsan/music/HEARTSTEEL, League of Legends, BAEKHYUN, tobi lou, ØZI, Cal Scruby - PARANOIA.mp3
 /home/ahsan/music/Higuchi Ai - Akuma no Ko.mp3
@@ -197,6 +269,8 @@
 /home/ahsan/music/Hiroyuki Sawano - Symphonicsuite (Aot) Part2-6th- Thanksat.mp3
 /home/ahsan/music/Hiroyuki Sawano - Barricades - Movie Ver..mp3
 /home/ahsan/music/Hiroyuki Sawano - Voices of the Chord.mp3
+/home/ahsan/music/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
+/home/ahsan/music/Ice Spice - In Ha Mood.mp3
 /home/ahsan/music/Ikimonogakari - ブルーバード.mp3
 /home/ahsan/music/Ikimonogakari - ホタルノヒカリ.mp3
 /home/ahsan/music/Imagine Dragons - Radioactive.mp3
@@ -236,15 +310,30 @@
 /home/ahsan/music/Imagine Dragons - Demons - Live London Sessions  2013.mp3
 /home/ahsan/music/Imagine Dragons - Thunder - Live in Vegas.mp3
 /home/ahsan/music/Imagine Dragons - Children of the Sky (a Starfield song).mp3
+/home/ahsan/music/Imanbek, BYOR - Belly Dancer.mp3
 /home/ahsan/music/IMLAY, Laura Brehm - Daylight.mp3
+/home/ahsan/music/Internet Money, Gunna, Don Toliver - Lemonade (feat. NAV).mp3
+/home/ahsan/music/INTERWORLD - METAMORPHOSIS.mp3
+/home/ahsan/music/Jack Harlow - WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix.mp3
+/home/ahsan/music/Jack Harlow - Dua Lipa.mp3
+/home/ahsan/music/Jack Harlow - Lovin On Me.mp3
 /home/ahsan/music/Jacob Collier - Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin).mp3
+/home/ahsan/music/James Hype, Miggy Dela Rosa - Ferrari.mp3
 /home/ahsan/music/Janee, Laura Brehm - Make It.mp3
 /home/ahsan/music/Alec Benjamin - Tell Her.mp3
+/home/ahsan/music/Jax Jones - Where Did You Go (feat. MNEK).mp3
 /home/ahsan/music/JAY-Z, Linkin Park - Jigga What  Faint.mp3
 /home/ahsan/music/JAY-Z, Linkin Park - Points of Authority  99 Problems  One Step Closer.mp3
 /home/ahsan/music/JAY-Z, Linkin Park - Numb  Encore.mp3
+/home/ahsan/music/J Balvin, Skrillex - In Da Getto.mp3
 /home/ahsan/music/Jim Yosef, Laura Brehm - Into the Sky.mp3
+/home/ahsan/music/JNR CHOI, Sam Tompkins - TO THE MOON.mp3
+/home/ahsan/music/Joel Corry, Jax Jones - OUT OUT (feat. Charli XCX & Saweetie).mp3
+/home/ahsan/music/Joel Corry, Tom Grennan - Lionheart (Fearless).mp3
+/home/ahsan/music/John Summit, Hayla - Where You Are.mp3
 /home/ahsan/music/Judah Earl, Laura Brehm - Dreaming in Color.mp3
+/home/ahsan/music/Juice WRLD - Come & Go (with Marshmello).mp3
+/home/ahsan/music/Kaliii - Area Codes.mp3
 /home/ahsan/music/KANA-BOON - シルエット.mp3
 /home/ahsan/music/KANKAKU PIERO - Harukamirai.mp3
 /home/ahsan/music/KDA, Madison Beer, (G)I-DLE, Jaira Burns, League of Legends - POPSTARS.mp3
@@ -253,6 +342,7 @@
 /home/ahsan/music/KDA, Madison Beer, Kim Petras, League of Legends - VILLAIN.mp3
 /home/ahsan/music/KDA, Wolftyla, Bekuh Boom, Aluna, League of Legends - DRUM GO DUM.mp3
 /home/ahsan/music/KDA, TWICE, Bekuh Boom, Annika Wells, League of Legends - I'LL SHOW YOU.mp3
+/home/ahsan/music/Kendrick Lamar - N95.mp3
 /home/ahsan/music/Kenshi Yonezu - ピースサイン.mp3
 /home/ahsan/music/S. Kiyotaka & Omega Tribe, Kiyotaka Sugiyama - Asphalt Lady.mp3
 /home/ahsan/music/KOHTA YAMAMOTO - Ashes on The Fire (Attack on Titan The Final Season Original Soundtrack).mp3
@@ -269,8 +359,10 @@
 /home/ahsan/music/KOHTA YAMAMOTO - The Warriors.mp3
 /home/ahsan/music/KOHTA YAMAMOTO - The Fall of Marley.mp3
 /home/ahsan/music/Hiroyuki Sawano - AOTF-s1.mp3
+/home/ahsan/music/Kordhell - Murder In My Mind.mp3
 /home/ahsan/music/Kygo, Imagine Dragons - Born To Be Yours.mp3
 /home/ahsan/music/Kygo, Sandro Cavazza - Forever Yours - Avicii Tribute.mp3
+/home/ahsan/music/La Roux, GAMPER & DADONI - Bulletproof.mp3
 /home/ahsan/music/Laura Brehm - Don't Wait.mp3
 /home/ahsan/music/Laura Brehm, Draper - Follow the Signs.mp3
 /home/ahsan/music/Laura Brehm, Summer Was Fun - Prism.mp3
@@ -311,6 +403,10 @@
 /home/ahsan/music/Legends of Runeterra, Brain Tan, League of Legends, Abigail Osborn - Shine On.mp3
 /home/ahsan/music/Leona Lewis, Avicii - Collide - Radio Edit.mp3
 /home/ahsan/music/Lil'B - つないだ手.mp3
+/home/ahsan/music/Lil Baby - Freestyle.mp3
+/home/ahsan/music/Lil Nas X - INDUSTRY BABY (feat. Jack Harlow).mp3
+/home/ahsan/music/Lil Nas X - MONTERO (Call Me By Your Name).mp3
+/home/ahsan/music/Lil Uzi Vert - Just Wanna Rock.mp3
 /home/ahsan/music/Lil Wayne - Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors).mp3
 /home/ahsan/music/Linked Horizon - Guren no Yumiya.mp3
 /home/ahsan/music/Linked Horizon - Guren no Zahyou.mp3
@@ -367,14 +463,26 @@
 /home/ahsan/music/Linkin Park - Healing Foot.mp3
 /home/ahsan/music/LiSA - crossing field.mp3
 /home/ahsan/music/LiSA - 紅蓮華.mp3
+/home/ahsan/music/LISA - MONEY.mp3
 /home/ahsan/music/LiSA - REALiZE.mp3
 /home/ahsan/music/LMYK - Without Love.mp3
 /home/ahsan/music/Long Shot Party - distance.mp3
+/home/ahsan/music/Maddix - Heute Nacht.mp3
 /home/ahsan/music/MADKID - RISE.mp3
+/home/ahsan/music/Måneskin - SUPERMODEL.mp3
 /home/ahsan/music/MAN WITH A MISSION - Seven Deadly Sins.mp3
 /home/ahsan/music/MAN WITH A MISSION - Dark Crow.mp3
 /home/ahsan/music/MAN WITH A MISSION, milet - 絆ノ奇跡.mp3
+/home/ahsan/music/Marnik, Naeleck - Boyz In Paris (with VINAI).mp3
+/home/ahsan/music/Marshmello, Manuel Turizo - El Merengue.mp3
+/home/ahsan/music/Masked Wolf - Astronaut In The Ocean.mp3
+/home/ahsan/music/Matt Sassari - Give It To Me - Full Vocal Mix.mp3
+/home/ahsan/music/Mau P - Drugs From Amsterdam.mp3
 /home/ahsan/music/MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit.mp3
+/home/ahsan/music/MEDUZA, Hozier - Tell It To My Heart.mp3
+/home/ahsan/music/MEDUZA, James Carter - Bad Memories (feat. Elley Duhé & FAST BOY).mp3
+/home/ahsan/music/Megan Thee Stallion, Dua Lipa - Sweetest Pie.mp3
+/home/ahsan/music/Megan Thee Stallion - HISS.mp3
 /home/ahsan/music/Miho Fukuhara - LET IT OUT-instrumental.mp3
 /home/ahsan/music/Miho Fukuhara - LET IT OUT(album version).mp3
 /home/ahsan/music/Mika Nakashima - KISS OF DEATH（Produced by HYDE）.mp3
@@ -384,11 +492,20 @@
 /home/ahsan/music/Motohiro Hata - 透明だった世界.mp3
 /home/ahsan/music/Mr FijiWiji, Laura Brehm - Beautiful.mp3
 /home/ahsan/music/Mrs. GREEN APPLE - インフェルノ.mp3
+/home/ahsan/music/Nardo Wick - Dah Dah DahDah.mp3
+/home/ahsan/music/Nathan Dawe - 21 Reasons (feat. Ella Henderson).mp3
+/home/ahsan/music/NF - Lie.mp3
+/home/ahsan/music/NF - HOPE.mp3
+/home/ahsan/music/Nicki Minaj - Red Ruby Da Sleeze.mp3
+/home/ahsan/music/Nicki Minaj - FTCU.mp3
+/home/ahsan/music/Nicki Minaj - Everybody (feat. Lil Uzi Vert).mp3
 /home/ahsan/music/NICO Touches the Walls - ホログラム.mp3
 /home/ahsan/music/NICO Touches the Walls - Diver.mp3
 /home/ahsan/music/NICO Touches the Walls - ニワカ雨ニモ負ケズ.mp3
 /home/ahsan/music/nobodyknows+ - Hero's Come Back!!.mp3
 /home/ahsan/music/Nogizaka46 - 月の大きさ.mp3
+/home/ahsan/music/Ofenbach - Overdrive (feat. Norma Jean Martine).mp3
+/home/ahsan/music/Offset - SAY MY GRACE (feat. Travis Scott).mp3
 /home/ahsan/music/Omori - Title.mp3
 /home/ahsan/music/Omori - White Space.mp3
 /home/ahsan/music/Omori - Lost at a Sleepover.mp3
@@ -518,10 +635,18 @@
 /home/ahsan/music/ONE OK ROCK - Start Again.mp3
 /home/ahsan/music/ONE OK ROCK - Save Yourself.mp3
 /home/ahsan/music/ONE OK ROCK - Make It Out Alive.mp3
+/home/ahsan/music/OneRepublic - Run.mp3
 /home/ahsan/music/Survive Said The Prophet - MUKANJYO (TV size).mp3
 /home/ahsan/music/Österreich - 無能.mp3
 /home/ahsan/music/Otto Knows - Back Where I Belong (feat. Avicii).mp3
+/home/ahsan/music/Öwnboss, Sevek - Move Your Body.mp3
+/home/ahsan/music/Peso Pluma, Anitta - BELLAKEO.mp3
+/home/ahsan/music/PinkPantheress, Ice Spice - Boy's a liar Pt. 2.mp3
+/home/ahsan/music/Pop Smoke - Dior.mp3
+/home/ahsan/music/Pop Smoke - Element.mp3
+/home/ahsan/music/Pop Smoke - Got It On Me.mp3
 /home/ahsan/music/Porter Robinson, League of Legends - Everything Goes On.mp3
+/home/ahsan/music/Post Malone - Motley Crew.mp3
 /home/ahsan/music/Pusha T, Mako - Misfit Toys (from the series Arcane League of Legends).mp3
 /home/ahsan/music/Queen - Nevermore - Remastered 2011.mp3
 /home/ahsan/music/Queen - Seven Seas Of Rhye - Remastered 2011.mp3
@@ -575,15 +700,61 @@
 /home/ahsan/music/Queen - I Want It All - Single Version.mp3
 /home/ahsan/music/QUEEN BEE - 火炎.mp3
 /home/ahsan/music/QUEEN BEE - メフィスト.mp3
+/home/ahsan/music/Quevedo, Myke Towers - PLAYA DEL INGLÉS.mp3
+/home/ahsan/music/Rag'n'Bone Man - Human.mp3
 /home/ahsan/music/Rameses B, Laura Brehm - Looking for the Light.mp3
 /home/ahsan/music/Ramsey - Goodbye (from the series Arcane League of Legends).mp3
+/home/ahsan/music/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
+/home/ahsan/music/Rauw Alejandro, Baby Rasta - PUNTO 40.mp3
+/home/ahsan/music/Rauw Alejandro, Bizarrap - BABY HELLO.mp3
+/home/ahsan/music/RAYE, 070 Shake - Escapism..mp3
 /home/ahsan/music/Reol - MONSTER.mp3
+/home/ahsan/music/Rival, CADMIUM - Daily (feat. Jon Becker).mp3
+/home/ahsan/music/Rival, CADMIUM - Just Breathe (feat. Jon Becker).mp3
+/home/ahsan/music/Rival, CADMIUM, Harley Bird - Seasons.mp3
+/home/ahsan/music/CADMIUM, Rival, Harley Bird - Seasons - Futuristik & Whogaux Remix.mp3
+/home/ahsan/music/Rival, CADMIUM, Rosendale - Willow Tree.mp3
+/home/ahsan/music/Rival, CADMIUM, Johnning - Thinking About You.mp3
+/home/ahsan/music/Rival, Max Hurrell, Veronica Bravo - Demons.mp3
+/home/ahsan/music/Rival, Micah Martin - Satisfy the Rage.mp3
+/home/ahsan/music/Rival, ORKID - Traffic Light.mp3
+/home/ahsan/music/Bryan Finlay, Rival - Walls.mp3
+/home/ahsan/music/Rival, CRVN - Be Gone.mp3
+/home/ahsan/music/Rival, CADMIUM, Micah Martin - In Your Head.mp3
+/home/ahsan/music/Rival, VAALEA - Intoxicated by Youth.mp3
+/home/ahsan/music/Rival, Neoni - Wreckage.mp3
+/home/ahsan/music/Rival, CADMIUM, Natalie Holmes - Doubt You.mp3
+/home/ahsan/music/Rival, Philip Strand - Let It Die.mp3
+/home/ahsan/music/Rival, Egzod, Andreas Stone - Live A Lie.mp3
+/home/ahsan/music/Rival, CADMIUM, Marmy - For Life.mp3
+/home/ahsan/music/Rival, CRVN - Lonely Way.mp3
+/home/ahsan/music/Rival, CRVN - Sleepwalking.mp3
+/home/ahsan/music/Rival, Myah Marie - Hate That About You.mp3
+/home/ahsan/music/Rival, Neoni - Throne.mp3
+/home/ahsan/music/Rival, CADMIUM, Harley Bird - Feeling It.mp3
+/home/ahsan/music/Rival - Get Up.mp3
+/home/ahsan/music/Rival, Philip Strand - Down.mp3
+/home/ahsan/music/Rival, Highlnd, Lousy - Knock On Wood.mp3
+/home/ahsan/music/Rival, Asketa & Natan Chaim - Superhero In My Sleep.mp3
 /home/ahsan/music/Rival, Laura Brehm, M.I.M.E - Dies Irae.mp3
+/home/ahsan/music/Rival, JAMICA, Costa Leon - Lost in Life.mp3
+/home/ahsan/music/Rival, Luxtides - Fever Dream.mp3
+/home/ahsan/music/Rival, CRVN - Falling.mp3
 /home/ahsan/music/Rival, Laura Brehm, caravan, Lea Brückner - Feel Like Home.mp3
+/home/ahsan/music/Rival, Fairlane, Philip Strand - Oblivion.mp3
+/home/ahsan/music/Rival, Dyson - Home To Me.mp3
+/home/ahsan/music/Rival, Raven Alexander - Live On.mp3
+/home/ahsan/music/Rival, Egzod, Dayce Williams - Blood Moon.mp3
+/home/ahsan/music/Rival, RUNN, Luma - Eternity.mp3
+/home/ahsan/music/Rival, Jim Yosef, Alaina Cross - Gone For Good.mp3
+/home/ahsan/music/Rival, Diandra Faye - Scars.mp3
+/home/ahsan/music/Rival, Lost Sky, Jex - Where You Are.mp3
 /home/ahsan/music/Rob Gasser, Laura Brehm - Vertigo.mp3
+/home/ahsan/music/Roddy Ricch - The Box.mp3
 /home/ahsan/music/Rogue, Laura Brehm - Dreams.mp3
 /home/ahsan/music/ROOKiEZ is PUNK'D - リマインド.mp3
 /home/ahsan/music/RUKI - 突撃ロック.mp3
+/home/ahsan/music/S3BZS, Mc Gw, Mc Menor Do Alvorada - MONTAGEM - PR FUNK.mp3
 /home/ahsan/music/Sabaton - Coat of Arms.mp3
 /home/ahsan/music/Sabaton - Midway.mp3
 /home/ahsan/music/Sabaton - Uprising.mp3
@@ -636,6 +807,7 @@
 /home/ahsan/music/Sabaton - The First Soldier.mp3
 /home/ahsan/music/Sabaton - 1916.mp3
 /home/ahsan/music/SCANDAL - 瞬間センチメンタル.mp3
+/home/ahsan/music/Sexyy Red - SkeeYee.mp3
 /home/ahsan/music/Shawn Mendes - Show You.mp3
 /home/ahsan/music/Shawn Mendes - Life Of The Party.mp3
 /home/ahsan/music/Shawn Mendes - Stitches.mp3
@@ -690,10 +862,14 @@
 /home/ahsan/music/SiM - The Rumbling.mp3
 /home/ahsan/music/SiM - Under the Tree.mp3
 /home/ahsan/music/Sista Prod, Sarcastic Sounds - Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy).mp3
+/home/ahsan/music/smle, Rival, Neoni - Up In Flames.mp3
+/home/ahsan/music/Kodak Black - Super Gremlin.mp3
+/home/ahsan/music/SNOW WIFE - AMERICAN HORROR SHOW.mp3
 /home/ahsan/music/sped up nightcore, Alec Benjamin - If We Have Each Other (Always By Her Side) - Sped Up Version.mp3
 /home/ahsan/music/sped up nightcore, Alec Benjamin - Different Kind Of Beautiful - Sped Up Version.mp3
 /home/ahsan/music/Sukima Switch - LINE - shinku-kan mix.mp3
 /home/ahsan/music/Sukima Switch - ゴールデンタイムラバー - 2020 Remaster.mp3
+/home/ahsan/music/Supermode - Tell Me Why - MEDUZA Remix.mp3
 /home/ahsan/music/Supper Moment, Survive Said The Prophet - To Whom.mp3
 /home/ahsan/music/Survive Said The Prophet - Subtraction.mp3
 /home/ahsan/music/Survive Said The Prophet - If You Really Want To.mp3
@@ -743,6 +919,10 @@
 /home/ahsan/music/Survive Said The Prophet - 624.mp3
 /home/ahsan/music/Survive Said The Prophet - Paradox.mp3
 /home/ahsan/music/Survive Said The Prophet - Find You.mp3
+/home/ahsan/music/Swedish House Mafia - Heaven Takes You Home (feat. Connie Constance).mp3
+/home/ahsan/music/Swedish House Mafia - Moth To A Flame (with The Weeknd).mp3
+/home/ahsan/music/Swedish House Mafia - Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix.mp3
+/home/ahsan/music/Switch Disco, Ella Henderson, Robert Miles - REACT.mp3
 /home/ahsan/music/tacica - newsong.mp3
 /home/ahsan/music/Taylor Swift - Lover (Remix) [feat. Shawn Mendes].mp3
 /home/ahsan/music/Telomic, Laura Brehm - Home.mp3
@@ -753,17 +933,32 @@
 /home/ahsan/music/TheFatRat, Laura Brehm - MAYDAY.mp3
 /home/ahsan/music/TheFatRat, Laura Brehm, Anna Yvette - Chosen.mp3
 /home/ahsan/music/TheFatRat, Laura Brehm - We'll Meet Again.mp3
+/home/ahsan/music/The Weeknd - Save Your Tears.mp3
+/home/ahsan/music/Tiagz, Fuerza Regida, El Alfa - Tacata (Remix).mp3
+/home/ahsan/music/Tiësto, Ava Max - The Motto.mp3
+/home/ahsan/music/Tiësto, Tate McRae - 10-35.mp3
+/home/ahsan/music/Tiësto - Lay Low.mp3
 /home/ahsan/music/Tim Berg - Seek Bromance - Avicii Vocal Edit.mp3
+/home/ahsan/music/Tom Odell - Another Love - Tiësto Remix.mp3
+/home/ahsan/music/Tom Santa - Rainfall (Praise You).mp3
+/home/ahsan/music/Topic, A7S - Kernkraft 400 (A Better Day).mp3
 /home/ahsan/music/League of Legends, Tori Kelly, DEEGAN - You & Me Makes Us.mp3
+/home/ahsan/music/Travis Scott - SICKO MODE.mp3
+/home/ahsan/music/Travis Scott - HIGHEST IN THE ROOM.mp3
+/home/ahsan/music/Travis Scott, HVME - Goosebumps - Remix.mp3
 /home/ahsan/music/True Damage, Becky G, Keke Palmer, JEON SOYEON, Duckwrth, Thutmose, League of Legends - GIANTS.mp3
 /home/ahsan/music/NCT, Laura Brehm - In The Sun Again.mp3
+/home/ahsan/music/twocolors, Safri Duo, Chris de Sarandy - Cynical.mp3
 /home/ahsan/music/Unknown Brain, Laura Brehm - Circles.mp3
+/home/ahsan/music/Unknown Brain, Rival, Veronica Bravo - Stay the Same.mp3
+/home/ahsan/music/Unknown Brain, Jex, Rival - Control.mp3
 /home/ahsan/music/VALORANT, Grabbitz - Die For You.mp3
 /home/ahsan/music/Varien, Laura Brehm - Valkyrie.mp3
 /home/ahsan/music/Varien, Laura Brehm - Ghost Spores.mp3
 /home/ahsan/music/Varien, Laura Brehm - Valkyrie III- Atonement.mp3
 /home/ahsan/music/Linkin Park - New Divide.mp3
 /home/ahsan/music/Imagine Dragons - Not Today.mp3
+/home/ahsan/music/Rival, CADMIUM - Fight for Me (feat. Chris Linton & Veronica Bravo).mp3
 /home/ahsan/music/Shawn Mendes - Top Of The World.mp3
 /home/ahsan/music/Javier Bardem, Shawn Mendes - Take A Look At Us Now - From the “Lyle Lyle Crocodile” Original Motion Picture Soundtrack.mp3
 /home/ahsan/music/Shawn Mendes, Constance Wu - Rip Up The Recipe - From the “Lyle Lyle Crocodile” Original Motion Picture Soundtrack.mp3
@@ -772,6 +967,8 @@
 /home/ahsan/music/Vicke Blanka - Black Rover.mp3
 /home/ahsan/music/Vicke Blanka - Black Catcher.mp3
 /home/ahsan/music/WRLD, Laura Brehm - Ocean Blue.mp3
+/home/ahsan/music/Wuki - Edge of Seventeen.mp3
+/home/ahsan/music/Wuki - Sunshine (My Girl).mp3
 /home/ahsan/music/Wyclef Jean, Avicii - Divine Sorrow.mp3
 /home/ahsan/music/Yamazaru - 風.mp3
 /home/ahsan/music/Yoko Hikasa - Utsukushiki Zankokuna Sekai (From 'Attack on Titan').mp3
@@ -779,6 +976,7 @@
 /home/ahsan/music/YUI - Rolling star.mp3
 /home/ahsan/music/YUI - again.mp3
 /home/ahsan/music/Yuko Ando - Shogeki.mp3
+/home/ahsan/music/Zara Larsson, David Guetta - On My Love.mp3
 /home/ahsan/music/眩暈SIREN - image _____(アニメ Ver.).mp3
 /home/ahsan/music/美波 - カワキヲアメク.mp3
 /home/ahsan/music/須田景凪 - veil.mp3

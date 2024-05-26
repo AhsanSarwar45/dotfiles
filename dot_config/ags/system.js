@@ -1,7 +1,5 @@
-import Hyprland from "resource:///com/github/Aylur/ags/service/hyprland.js";
-import Variable from "resource:///com/github/Aylur/ags/variable.js";
-import Widget from "resource:///com/github/Aylur/ags/widget.js";
-import { exec, execAsync } from "resource:///com/github/Aylur/ags/utils.js";
+
+
 const divide = ([total, free]) => free / total;
 
 const cpu = Variable(0, {
@@ -38,7 +36,7 @@ const ram = Variable(0, {
 export const CpuProgress = () =>
   Widget.Button({
     class_names: ["cpu"],
-    on_primary_click: () => execAsync("wezterm -e htop"),
+    on_primary_click: () => Utils.execAsync("wezterm -e htop"),
     child: Widget.CircularProgress({
       rounded: true,
       class_names: ["circular-progress"],
@@ -52,7 +50,7 @@ export const CpuProgress = () =>
 export const RamProgress = () =>
   Widget.Button({
     class_names: ["memory"],
-    on_primary_click: () => execAsync("wezterm -e htop"),
+    on_primary_click: () => Utils.execAsync("wezterm -e htop"),
     child: Widget.CircularProgress({
       rounded: true,
       class_names: ["circular-progress"],

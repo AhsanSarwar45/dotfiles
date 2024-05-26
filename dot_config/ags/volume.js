@@ -1,10 +1,9 @@
-import Widget from "resource:///com/github/Aylur/ags/widget.js";
-import Audio from "resource:///com/github/Aylur/ags/service/audio.js";
+const audio = await Service.import("audio")
 
 export const Volume = () =>
   Widget.Button({
     class_names: ["volume", "element"],
-    tooltipMarkup: Audio.bind("speaker").transform((speaker) => {
+    tooltipMarkup: audio.bind("speaker").transform((speaker) => {
       if (!speaker) return "No speaker";
       return `Volume: ${(speaker.volume * 100).toPrecision(2)}%`;
     }),
@@ -16,13 +15,13 @@ export const Volume = () =>
               hexpand: true,
               draw_value: false,
               on_change: ({ value }) => {
-                if (Audio.speaker) Audio.speaker.volume = value;
+                if (audio.speaker) audio.speaker.volume = value;
               },
               setup: (self) =>
                 self.hook(
-                  Audio,
+                  audio,
                   () => {
-                    self.value = Audio.speaker?.volume || 0;
+                    self.value = audio.speaker?.volume || 0;
                   },
                   "speaker-changed",
                 ),
@@ -31,9 +30,9 @@ export const Volume = () =>
         ],
       }).popup_at_pointer(event),
     child: Widget.Icon().hook(
-      Audio,
+      audio,
       (self) => {
-        if (!Audio.speaker) return;
+        if (!audio.speaker) return;
 
         const category = {
           101: "overamplified",
@@ -43,11 +42,11 @@ export const Volume = () =>
           0: "muted",
         };
 
-        const icon = Audio.speaker.is_muted
+        const icon = audio.speaker.is_muted
           ? 0
           : [101, 67, 34, 1, 0].find(
-              (threshold) => threshold <= (Audio.speaker?.volume ?? 0) * 100,
-            );
+            (threshold) => threshold <= (audio.speaker?.volume ?? 0) * 100,
+          );
         self.class_names = ["icon"];
         self.icon = `audio-volume-${category[icon]}-symbolic`;
       },

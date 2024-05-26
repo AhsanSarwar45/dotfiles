@@ -39,6 +39,13 @@ local plugins = {
     opts = overrides.nvimtree,
   },
 
+  {
+    "iamcco/markdown-preview.nvim",
+    cmd = { "MarkdownPreviewToggle", "MarkdownPreview", "MarkdownPreviewStop" },
+    ft = { "markdown" },
+    build = function() vim.fn["mkdp#util#install"]() end,
+  },
+
   -- Install a plugin
   {
     "max397574/better-escape.nvim",

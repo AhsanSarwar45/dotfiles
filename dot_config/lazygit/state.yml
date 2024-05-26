@@ -1,12 +1,34 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/ahsan/dev/chesseru
-- /home/ahsan/dev/dropella
-- /home/ahsan/data/dev/chesseru
-- /home/ahsan/data/dev/dropella
-- /home/ahsan/.local/share/chezmoi
+    - /home/ahsan/dev/built-search
+    - /home/ahsan/dev/esim
+    - /home/ahsan/dev/futrgram-fe
+    - /home/ahsan/dev/chrono
+    - /home/ahsan/dev/teamwebb
+    - /home/ahsan/dev/flutter_show_when_locked
+    - /home/ahsan/dev/dropella
+    - /home/ahsan/dev/home_widget
+    - /home/ahsan/dev/wip-website-v2
+    - /home/ahsan/dev/flutter_boot_receiver
+    - /home/ahsan/dev/plus_plugins
+    - /home/ahsan/data/dev/plus_plugins
+    - /home/ahsan/dev/fdroiddata
+    - /home/ahsan/.config/nvim
+    - /home/ahsan/dev/chesseru
+    - /home/ahsan/.local/share/chezmoi
+    - /home/ahsan/data/dev/chesseru
+    - /home/ahsan/data/dev/dropella
 startuppopupversion: 5
+lastversion: 0.42.0
 customcommandshistory:
-- q
+    - w
+    - wa
+    - Wa
+    - q
 hidecommandlog: false
 ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always

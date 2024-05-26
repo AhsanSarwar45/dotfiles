@@ -1,6 +1,5 @@
-import Widget from "resource:///com/github/Aylur/ags/widget.js";
-import Mpris from "resource:///com/github/Aylur/ags/service/mpris.js";
-import { execAsync } from "resource:///com/github/Aylur/ags/utils.js";
+const mpris = await Service.import("mpris")
+
 import { trimString } from "./utils.js";
 
 const getActivePlayer = (players) => {
@@ -13,12 +12,12 @@ export const Media = () =>
   Widget.Button({
     class_name: "media",
     on_primary_click: () => {
-      const player = getActivePlayer(Mpris.players);
+      const player = getActivePlayer(mpris.players);
       if (player) player.playPause()
-      else execAsync("wezterm -e cmus");
+      else Utils.execAsync("wezterm -e cmus");
     },
-    on_scroll_up: () => getActivePlayer(Mpris.players)?.next(),
-    on_scroll_down: () => getActivePlayer(Mpris.players)?.previous(),
+    on_scroll_up: () => getActivePlayer(mpris.players)?.next(),
+    on_scroll_down: () => getActivePlayer(mpris.players)?.previous(),
     child: Widget.Box({
       vpack: "center",
       spacing: 12,
@@ -28,9 +27,9 @@ export const Media = () =>
           icon: "emblem-music-symbolic",
         }),
         Widget.Label("-").hook(
-          Mpris,
+          mpris,
           (self) => {
-            const player = getActivePlayer(Mpris.players);
+            const player = getActivePlayer(mpris.players);
             if (player) {
               self.label = trimString(
                 `${player.track_artists.length > 0 &&
@@ -47,9 +46,9 @@ export const Media = () =>
           "player-changed",
         ),
         Widget.Icon().hook(
-          Mpris,
+          mpris,
           (self) => {
-            const player = getActivePlayer(Mpris.players);
+            const player = getActivePlayer(mpris.players);
             if (!player) {
               self.icon = "media-playback-start-symbolic";
             } else {

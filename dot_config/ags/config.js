@@ -1,21 +1,21 @@
-import App from "resource:///com/github/Aylur/ags/app.js";
-import Widget from "resource:///com/github/Aylur/ags/widget.js";
-import Hyprland from "resource:///com/github/Aylur/ags/service/hyprland.js";
-import { monitorFile } from "resource:///com/github/Aylur/ags/utils.js";
-import SystemTray from "resource:///com/github/Aylur/ags/service/systemtray.js";
-import { Launcher, launcher } from "./launcher.js";
+
+const hyprland = await Service.import("hyprland")
+const systemtray = await Service.import("systemtray")
+const notifications = await Service.import("notifications")
+
+import { applauncher, Launcher } from "./launcher.js";
 import { Clock } from "./clock.js";
 import { Notification } from "./notification.js";
 import { SysTray } from "./systray.js";
 import { CpuProgress, RamProgress } from "./system.js";
-import { NetworkIndicator } from "./network.js";
+// import { NetworkIndicator } from "./network.js";
+import { BatteryInfo } from "./battery.js";
 import { Volume } from "./volume.js";
 import { Workspaces } from "./workspaces.js";
 import { Media } from "./media.js";
 import { ClientTitle } from "./title.js";
-import Notifications from "resource:///com/github/Aylur/ags/service/notifications.js";
-import { BatteryInfo } from "./battery.js";
-// layout of the bar
+
+// // layout of the bar
 const Left = () =>
   Widget.Box({
     spacing: 6,
@@ -37,20 +37,20 @@ const Left = () =>
         spacing: 8,
         class_names: ["section"],
         visible:
-          Hyprland.active.client.bind("address").transform((addr) => !!addr) &&
-          Hyprland.active.client.bind("title").transform((title) => !!title),
+          hyprland.active.client.bind("address").transform((addr) => !!addr) &&
+          hyprland.active.client.bind("title").transform((title) => !!title),
         children: [ClientTitle()],
       }),
       Widget.Box({
         class_names: ["section"],
         hpack: "end",
-        visible: Notifications.bind("popups").transform((p) => p.length > 0),
+        visible: notifications.bind("popups").transform((p) => p.length > 0),
         spacing: 8,
         children: [Notification()],
       }),
     ],
   });
-
+//
 const Center = () =>
   Widget.Box({
     spacing: 8,
@@ -73,7 +73,7 @@ const Right = () =>
       Widget.Box({
         class_names: ["section"],
         hpack: "end",
-        visible: SystemTray.bind("items").transform((items) => items.length > 0),
+        visible: systemtray.bind("items").transform((items) => items.length > 0),
         spacing: 8,
         children: [SysTray()],
       }),
@@ -85,7 +85,7 @@ const Right = () =>
           CpuProgress(),
           RamProgress(),
           BatteryInfo(),
-          NetworkIndicator(),
+          // NetworkIndicator(),
           Volume(),
         ],
       }),
@@ -111,17 +111,17 @@ const Bar = (monitor = 0) =>
     }),
   });
 
-monitorFile(`${App.configDir}/style.css`, function() {
-  App.resetCss();
-  App.applyCss(`${App.configDir}/style.css`);
-});
+// monitorFile(`${App.configDir}/style.css`, function() {
+//   App.resetCss();
+//   App.applyCss(`${App.configDir}/style.css`);
+// });
 
 // exporting the config so ags can manage the windows
 export default {
   style: App.configDir + "/style.css",
   windows: [
     Bar(),
-    launcher,
+    applauncher,
     // you can call it, for each monitor
     // Bar(0),
     // Bar(1)

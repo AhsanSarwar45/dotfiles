@@ -11,11 +11,14 @@ set -g theme_nerd_fonts yes
 set --export BUN_INSTALL "$HOME/.bun"
 set --export JAVA_HOME "/usr/lib/jvm/java-17-openjdk/"
 set --export CHROME_EXECUTABLE "/usr/bin/thorium-shell"
+set --export ANDROID_AVD_HOME "/home/ahsan/data/android/avd/"
 # set -g theme_color_scheme user
 
 fish_add_path -g /opt/flutter/bin/
 fish_add_path -g "$BUN_INSTALL/bin/"
 fish_add_path -g "$JAVA_HOME/bin"
+fish_add_path -g "$HOME/.pub-cache/bin"
+fish_add_path -g "$HOME/.local/bin"
 
 # bun
 nvm use 21 -s
@@ -30,3 +33,6 @@ end
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
 set --export PATH $BUN_INSTALL/bin $PATH
+# set --export PATH "$HOME/.pub-cache/bin $PATH"
+# set --export PATH "$HOME/.local/bin $PATH"
+

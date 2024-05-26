@@ -118,10 +118,10 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         rx="1.9999942779541"
-         ry="1.99999165534973"
-         width="13.9999885559082"
-         height="13.9999904632568" />
+         rx="1.9999942629356"
+         ry="1.99999155960684"
+         width="48.0959746593565"
+         height="47.9999992791123" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -154,9 +154,12 @@
       <eventcontext
          id="arc"
          style="fill:red;"
-         end="0"
-         start="0"
-         usecurrent="1" />
+         end="318.829704689902"
+         start="36.2730682062766"
+         usecurrent="1"
+         rx="11.9499017309955"
+         ry="11.9499017309955"
+         arc_type="1" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -332,8 +335,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="6.00004252052206"
-       y="29.0002055158566"
+       x="28.5307488642126"
+       y="24.8798600824501"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -400,6 +403,18 @@
     <group
        id="geometric"
        mode="drag" />
+    <group
+       id="measure"
+       unit="px">
+      <group
+         id="measure-start"
+         x="41.5748031496063"
+         y="-3.77952755905512" />
+      <group
+         id="measure-end"
+         x="5.97206173228347"
+         y="-3.77952755905512" />
+    </group>
   </group>
   <group
      id="palette">
@@ -617,7 +632,10 @@
          id="defaultxdpi" />
       <group
          id="batchexportarea"
-         value="layer" />
+         value="page" />
+      <group
+         id="defaultdpi"
+         value="287.429992675781" />
     </group>
     <group
        id="save_as"
@@ -644,7 +662,8 @@
        ask_svg="1"
        link="embed"
        scale="auto"
-       forcexdpi="0" />
+       forcexdpi="0"
+       import_mode_svg="include" />
     <group
        id="debug"
        redirect="0" />
@@ -987,16 +1006,31 @@
      id="extensions"
      org.inkscape.output.png.inkscape.png_bitdepth="99"
      org.inkscape.output.png.inkscape.png_compression="6"
-     org.inkscape.output.png.inkscape.png_antialias="2" />
+     org.inkscape.output.png.inkscape.png_antialias="2"
+     org.inkscape.template.paper.max="42.0"
+     org.inkscape.template.paper.min="30.0"
+     org.inkscape.template.paper.unit="in"
+     org.inkscape.template.paper.orientation="land"
+     org.inkscape.template.video.height="4320.0"
+     org.inkscape.template.video.unit="px"
+     org.inkscape.template.video.width="7680.0"
+     org.inkscape.template.social.height="720.0"
+     org.inkscape.template.social.unit="px"
+     org.inkscape.template.social.width="720.0"
+     org.inkscape.template.digital.height="768.0"
+     org.inkscape.template.digital.unit="px"
+     org.inkscape.template.digital.width="1024.0"
+     org.inkscape.template.other.size="48.0"
+     org.inkscape.template.other.unit="px" />
   <group
      id="desktop"
-     style="fill:#d40000;paint-order:fill markers stroke;opacity:0.14207386">
+     style="fill:#f9f9f9;paint-order:fill markers stroke;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke:#eaeaea">
     <group
        width="813"
        height="502"
        x="0"
        y="0"
-       maximized="0"
+       maximized="1"
        fullscreen="0"
        id="geometry" />
     <group
@@ -1018,14 +1052,14 @@
      id="toolbox"
      icononly="1"
      secondary="1"
-     simplesnap="1"
+     simplesnap="0"
      small="1">
     <group
        id="tools"
        icononly="1"
        small="0"
        iconsize="16"
-       width="32">
+       width="30">
       <group
          id="buttons" />
     </group>
@@ -1116,7 +1150,7 @@
      id="theme"
      defaultPreferDarkTheme="0"
      defaultIconTheme="OneDark"
-     defaultGtkTheme="OneDark"
+     defaultGtkTheme="THEME"
      narrowSpinButton="1"
      preferDarkTheme="1"
      darkTheme="1"

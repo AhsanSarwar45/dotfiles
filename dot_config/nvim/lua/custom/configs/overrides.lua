@@ -13,10 +13,11 @@ M.treesitter = {
     "markdown",
     "markdown_inline",
     "svelte",
-    "dart",
+    "xml",
   },
   indent = {
     enable = true,
+    disable = { 'dart' }
     -- disable = {
     --   "python"
     -- },
@@ -35,7 +36,8 @@ M.mason = {
     "typescript-language-server",
     "prettier",
     "svelte-language-server",
-    "dartls",
+    "kotlin-language-server",
+
   },
 }
 

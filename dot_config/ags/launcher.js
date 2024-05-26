@@ -1,15 +1,13 @@
-import Widget from "resource:///com/github/Aylur/ags/widget.js";
-import App from "resource:///com/github/Aylur/ags/app.js";
-import Applications from "resource:///com/github/Aylur/ags/service/applications.js";
 
 const WINDOW_NAME = "launcher";
+const { query } = await Service.import("applications")
 
 /** @param {import('resource:///com/github/Aylur/ags/service/applications.js').Application} app */
 const AppItem = (app) =>
   Widget.Button({
     class_names: ["launcher-item"],
     on_clicked: () => {
-      launcher.hide();
+      applauncher.hide();
       app.launch();
     },
     attribute: { app },
@@ -31,84 +29,98 @@ const AppItem = (app) =>
     }),
   });
 
-const Applauncher = () => {
+const Applauncher = ({ width = 500, height = 500, spacing = 0 }) => {
   // list of application buttons
-  let applications = Applications.query("").map(AppItem);
+  let applications = query("").map(AppItem)
 
   // container holding the buttons
   const list = Widget.Box({
     vertical: true,
     children: applications,
-  });
+    spacing,
+  })
 
   // repopulate the box, so the most frequent apps are on top of the list
   function repopulate() {
-    applications = Applications.query("").map(AppItem);
-    list.children = applications;
+    applications = query("").map(AppItem)
+    list.children = applications
   }
 
   // search entry
   const entry = Widget.Entry({
     hexpand: true,
+    css: `margin-bottom: ${spacing}px;`,
+
     // to launch the first item on Enter
     on_accept: () => {
-      const visibleItems = applications.filter((item) => item.visible);
-      if (visibleItems.length > 0) {
-        App.toggleWindow(WINDOW_NAME);
-        visibleItems[0].attribute.app.launch();
+      // make sure we only consider visible (searched for) applications
+      const results = applications.filter((item) => item.visible);
+      if (results[0]) {
+        App.toggleWindow(WINDOW_NAME)
+        results[0].attribute.app.launch()
       }
     },
 
     // filter out the list
-    on_change: ({ text }) =>
-      applications.forEach((item) => {
-        item.visible = item.attribute.app.match(text);
-      }),
-  });
+    on_change: ({ text }) => applications.forEach(item => {
+      item.visible = item.attribute.app.match(text ?? "")
+    }),
+  })
 
   return Widget.Box({
     vertical: true,
     class_names: ["launcher-container"],
-    spacing: 8,
+    spacing: 0,
     children: [
       entry,
+
       // wrap the list in a scrollable
       Widget.Scrollable({
-        class_names: ["launcher-list"],
         hscroll: "never",
+        class_names: ["launcher-list"],
         child: list,
       }),
     ],
-    setup: (self) =>
-      self.hook(App, (_, windowName, visible) => {
-        if (windowName !== WINDOW_NAME) return;
+    setup: self => self.hook(App, (_, windowName, visible) => {
+      if (windowName !== WINDOW_NAME)
+        return
 
-        // when the applauncher shows up
-        if (visible) {
-          repopulate();
-          entry.text = "";
-          entry.grab_focus();
-        }
-      }),
-  });
-};
+      // when the applauncher shows up
+      if (visible) {
+        repopulate()
+        entry.text = ""
+        entry.grab_focus()
+      }
+    }),
+  })
+}
 
 // there needs to be only one instance
-export const launcher = Widget.Window({
+export const applauncher = Widget.Window({
   name: WINDOW_NAME,
-  popup: true,
+  setup: self => self.keybind("Escape", () => {
+    App.closeWindow(WINDOW_NAME)
+  }),
   visible: false,
   class_names: ["launcher"],
-  focusable: true,
-  child: Applauncher(),
-});
+  keymode: "exclusive",
+  child: Applauncher({
+    width: 500,
+    height: 500,
+    spacing: 0,
+  }),
+})
 
 export const Launcher = () =>
   Widget.Button({
     class_name: "launcher-button",
-    on_primary_click: () => launcher.show_now(),
+    on_primary_click: () => {
+      applauncher.is_visible() ? applauncher.hide() : applauncher.show();
+    },
     child: Widget.Icon({
       class_names: ["icon"],
       icon: "preferences-desktop-apps-symbolic",
     }),
   });
+
+
