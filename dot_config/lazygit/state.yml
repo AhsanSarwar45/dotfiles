@@ -1,5 +1,6 @@
 lastupdatecheck: 0
 recentrepos:
+    - /home/ahsan/.local/share/chezmoi
     - /home/ahsan/dev/built-search
     - /home/ahsan/dev/esim
     - /home/ahsan/dev/futrgram-fe
@@ -15,7 +16,6 @@ recentrepos:
     - /home/ahsan/dev/fdroiddata
     - /home/ahsan/.config/nvim
     - /home/ahsan/dev/chesseru
-    - /home/ahsan/.local/share/chezmoi
     - /home/ahsan/data/dev/chesseru
     - /home/ahsan/data/dev/dropella
 startuppopupversion: 5
