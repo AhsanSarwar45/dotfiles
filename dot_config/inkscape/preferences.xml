@@ -118,10 +118,10 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         rx="1.9999942629356"
-         ry="1.99999155960684"
-         width="48.0959746593565"
-         height="47.9999992791123" />
+         rx="1.99999426293562"
+         ry="1.99999155960683"
+         width="410.302936223551"
+         height="312.771909218134" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -162,9 +162,10 @@
          arc_type="1" />
       <eventcontext
          id="star"
-         magnitude="5"
+         magnitude="3"
          style="fill:yellow;"
-         usecurrent="1" />
+         usecurrent="1"
+         proportion="0.0961704159114571" />
       <eventcontext
          id="spiral"
          style="fill:none;stroke:black"
@@ -187,7 +188,8 @@
          mode="drag"
          selcue="1"
          style="stroke-width:1px;"
-         usecurrent="1" />
+         usecurrent="1"
+         freehand-mode="3" />
     </group>
     <eventcontext
        id="calligraphic"
@@ -335,8 +337,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="28.5307488642126"
-       y="24.8798600824501"
+       x="537.369411023622"
+       y="192.248537952756"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -642,7 +644,7 @@
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/home/ahsan/.config/Kvantum/WhiteSur"
+       path="/home/ahsan/documents"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -706,12 +708,16 @@
        id="undo-history" />
     <group
        id="objects"
-       expand_to_layer="1" />
+       expand_to_layer="1"
+       layers_only="0" />
     <group
        id="filters"
        handlePos="233" />
     <group
        id="livepatheffect" />
+    <group
+       id="layerProp"
+       addLayerPosition="0" />
   </group>
   <group
      id="printing">
@@ -1000,7 +1006,8 @@
        shortcutfile="adobe-illustrator-cs2.xml" />
     <group
        id="snapping"
-       snap-global-toggle="1" />
+       snap-global-toggle="1"
+       snap-grid="0" />
   </group>
   <group
      id="extensions"
@@ -1024,7 +1031,7 @@
      org.inkscape.template.other.unit="px" />
   <group
      id="desktop"
-     style="fill:#f9f9f9;paint-order:fill markers stroke;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke:#eaeaea">
+     style="fill:#ffd9aa;stroke-width:5.89984252;stroke-linecap:round;stroke-linejoin:round;stroke:#be0104;stroke-opacity:0.30905104">
     <group
        width="813"
        height="502"
@@ -1059,7 +1066,7 @@
        icononly="1"
        small="0"
        iconsize="16"
-       width="30">
+       width="32">
       <group
          id="buttons" />
     </group>
@@ -1175,4 +1182,7 @@
   <group
      id="gradient-edit"
      stoplist="1" />
+  <group
+     id="color_scales"
+     wheel_vis_hsl="1" />
 </inkscape>

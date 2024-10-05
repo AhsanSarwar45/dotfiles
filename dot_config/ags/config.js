@@ -94,7 +94,7 @@ const Right = () =>
 
 const Bar = (monitor = 0) =>
   Widget.Window({
-    name: `bar`, // name has to be unique
+    name: `bar ${monitor}`, // name has to be unique
     class_name: "bar",
     monitor,
     vpack: "center",
@@ -119,11 +119,21 @@ const Bar = (monitor = 0) =>
 // exporting the config so ags can manage the windows
 export default {
   style: App.configDir + "/style.css",
-  windows: [
-    Bar(),
-    applauncher,
-    // you can call it, for each monitor
-    // Bar(0),
-    // Bar(1)
-  ],
+  windows: () => {
+    let bars = [];
+    let monitors = hyprland.monitors;
+
+    for (let monitorIndex = 0; monitorIndex < monitors.length; monitorIndex++) {
+      const monitor = monitors[monitorIndex];
+      let { id } = monitor;
+      let gdkMonitor = hyprland.getMonitor(id);
+
+      if (!gdkMonitor)
+        continue;
+      console.log(`GDK:${gdkMonitor} Desc: ${monitor.description}`);
+
+      bars.push(Bar(id))
+    }
+    return [...bars, applauncher];
+  }
 };

@@ -1,5 +1,5 @@
 /home/ahsan/music/Ice Spice - Princess Diana (with Nicki Minaj).mp3
-/home/ahsan/music/Lil Baby - Go Hard.mp3
+/home/ahsan/music/Itachi Uchiha - Orignal Soundtrack (extended) [xYKzdx-B1w0].mp3
 /home/ahsan/music/Tiësto, 21 Savage, BIA - BOTH.mp3
 /home/ahsan/music/Offset - Ric Flair Drip (with Metro Boomin).mp3
 /home/ahsan/music/21 Savage, Metro Boomin - Runnin.mp3
@@ -286,12 +286,18 @@
 /home/ahsan/music/Imagine Dragons - Shots - Broiler Remix.mp3
 /home/ahsan/music/Imagine Dragons - Roots.mp3
 /home/ahsan/music/Imagine Dragons - Monster.mp3
-/home/ahsan/music/Imagine Dragons - Next To Me.mp3
+/home/ahsan/music/01. Imagine Dragons - Next To Me.flac
+/home/ahsan/music/02. Imagine Dragons - I Don’t Know Why.flac
+/home/ahsan/music/03. Imagine Dragons - Whatever It Takes.flac
+/home/ahsan/music/04. Imagine Dragons - Believer.flac
+/home/ahsan/music/05. Imagine Dragons - Walking The Wire.flac
+/home/ahsan/music/06. Imagine Dragons - Rise Up.flac
+/home/ahsan/music/07. Imagine Dragons - I’ll Make It Up To You.flac
+/home/ahsan/music/08. Imagine Dragons - Yesterday.flac
+/home/ahsan/music/09. Imagine Dragons - Mouth Of The River.flac
+/home/ahsan/music/10. Imagine Dragons - Thunder.flac
+/home/ahsan/music/12. Imagine Dragons - Dancing In The Dark.flac
 /home/ahsan/music/Imagine Dragons - Whatever It Takes.mp3
-/home/ahsan/music/Imagine Dragons - Believer.mp3
-/home/ahsan/music/Imagine Dragons - Walking The Wire.mp3
-/home/ahsan/music/Imagine Dragons - Rise Up.mp3
-/home/ahsan/music/Imagine Dragons - Thunder.mp3
 /home/ahsan/music/Imagine Dragons - Natural.mp3
 /home/ahsan/music/Imagine Dragons - Machine.mp3
 /home/ahsan/music/Imagine Dragons - Bad Liar.mp3
@@ -404,6 +410,7 @@
 /home/ahsan/music/Leona Lewis, Avicii - Collide - Radio Edit.mp3
 /home/ahsan/music/Lil'B - つないだ手.mp3
 /home/ahsan/music/Lil Baby - Freestyle.mp3
+/home/ahsan/music/Lil Baby - Go Hard.mp3
 /home/ahsan/music/Lil Nas X - INDUSTRY BABY (feat. Jack Harlow).mp3
 /home/ahsan/music/Lil Nas X - MONTERO (Call Me By Your Name).mp3
 /home/ahsan/music/Lil Uzi Vert - Just Wanna Rock.mp3

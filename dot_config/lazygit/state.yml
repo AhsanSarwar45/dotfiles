@@ -1,33 +1,43 @@
 lastupdatecheck: 0
 recentrepos:
     - /home/ahsan/.local/share/chezmoi
-    - /home/ahsan/dev/built-search
-    - /home/ahsan/dev/esim
-    - /home/ahsan/dev/futrgram-fe
+    - /home/ahsan/dev/flourish
+    - /home/ahsan/dev/raz-tutoring
     - /home/ahsan/dev/chrono
+    - /home/ahsan/dev/keystone-ui
+    - /home/ahsan/dev/virtual-optima
+    - /home/ahsan/dev/futrgram-fe
+    - /home/ahsan/dev/esim
+    - /home/ahsan/dev/layout
+    - /home/ahsan/dev/home_widget
+    - /home/ahsan/dev/flutter_easyloading
+    - /home/ahsan/dev/animated_reorderable_list
+    - /home/ahsan/dev/great_list_view
+    - /home/ahsan/dev/designerpro
+    - /home/ahsan/dev/laundry-plus-web
+    - /home/ahsan/dev/flutter_boot_receiver
+    - /home/ahsan/dev/built-search
+    - /home/ahsan/dev/flutter_foreground_task
+    - /home/ahsan/dev/location
+    - /home/ahsan/dev/roles-template
+    - /home/ahsan/dev/futgram-copy
     - /home/ahsan/dev/teamwebb
     - /home/ahsan/dev/flutter_show_when_locked
-    - /home/ahsan/dev/dropella
-    - /home/ahsan/dev/home_widget
     - /home/ahsan/dev/wip-website-v2
-    - /home/ahsan/dev/flutter_boot_receiver
-    - /home/ahsan/dev/plus_plugins
-    - /home/ahsan/data/dev/plus_plugins
-    - /home/ahsan/dev/fdroiddata
     - /home/ahsan/.config/nvim
     - /home/ahsan/dev/chesseru
     - /home/ahsan/data/dev/chesseru
-    - /home/ahsan/data/dev/dropella
 startuppopupversion: 5
-lastversion: 0.42.0
+lastversion: 0.44.1
 customcommandshistory:
+    - q
     - w
     - wa
     - Wa
-    - q
 hidecommandlog: false
 ignorewhitespaceindiffview: false
-diffcontextsize: 3
+diffcontextsize: 2
+renamesimilaritythreshold: 50
 localbranchsortorder: recency
 remotebranchsortorder: alphabetical
 gitlogorder: topo-order

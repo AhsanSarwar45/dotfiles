@@ -1,5 +1,16 @@
 {
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
   "choose library location": "/home/ahsan/data/onedrive-personal/Sync/Books",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.17",
+      "7.12"
+    ]
+  },
   "sort_history": [
     [
       "timestamp",

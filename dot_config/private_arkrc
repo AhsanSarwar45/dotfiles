@@ -1,6 +1,6 @@
 [ExtractDialog]
 1920x1080 screen: Window-Maximized=true
-DirHistory[$e]=$HOME/dev/futrgram-fe/src/assets/images/icons/,$HOME/dev/,$HOME/downloads/,$HOME/dev/chrono/android/app/src/main/res/drawable/,$HOME/pictures/,$HOME/ssd-games/,/opt/
+DirHistory[$e]=$HOME/music/,$HOME/dev/,$HOME/downloads/,$HOME/data/onedrive-lums/3d/blender/,$HOME/data/onedrive-lums/3d/blender/plugins/,$HOME/dev/raz-tutoring/src/lib/components/ui/,$HOME/dev/terrain_test/,$HOME/dev/terrain_test/terrain/,$HOME/dev/terrain_test/textures/,$HOME/dev/terrain_test/models/
 
 [Extraction]
 closeAfterExtraction=true
@@ -12,5 +12,4 @@ ShowSidebar=true
 
 [MainWindow]
 1920x1080 screen: Window-Maximized=true
-StatusBar=Disabled
 ToolBarsMovable=Disabled

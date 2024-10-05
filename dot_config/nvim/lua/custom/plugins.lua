@@ -40,6 +40,11 @@ local plugins = {
   },
 
   {
+    "simeji/winresizer",
+    lazy = false
+  },
+
+  {
     "iamcco/markdown-preview.nvim",
     cmd = { "MarkdownPreviewToggle", "MarkdownPreview", "MarkdownPreviewStop" },
     ft = { "markdown" },
@@ -122,7 +127,7 @@ local plugins = {
       require("copilot_cmp").setup()
     end,
   },
-
+  { 'wakatime/vim-wakatime', lazy = false },
   {
     "hrsh7th/nvim-cmp",
     dependencies = {

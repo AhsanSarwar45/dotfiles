@@ -18,7 +18,7 @@
   ],
   "confirm_delete": false,
   "cover_flow_queue_length": 6,
-  "default_send_to_device_action": "DeviceAction:main::False:False",
+  "default_send_to_device_action": "DeviceAction:main::False:True",
   "delete_news_from_library_on_upload": false,
   "disable_animations": false,
   "disable_tray_notification": false,
@@ -47,6 +47,7 @@
   "jobs_search_history": [],
   "lrf_viewer_search_history": [],
   "main_search_history": [
+    "mistborn",
     "vehicle"
   ],
   "main_window_geometry": null,

@@ -4,7 +4,7 @@ local capabilities = require("plugins.configs.lspconfig").capabilities
 local lspconfig = require "lspconfig"
 
 -- if you just want default config for the servers then put them in a table
-local servers = { "html", "cssls", "tsserver", "clangd", "svelte", "tailwindcss", "kotlin_language_server",
+local servers = { "html", "cssls", "ts_ls", "clangd", "tailwindcss", "kotlin_language_server",
   "java_language_server" }
 
 for _, lsp in ipairs(servers) do
@@ -13,6 +13,19 @@ for _, lsp in ipairs(servers) do
     capabilities = capabilities,
   }
 end
+
+lspconfig.svelte.setup {
+  on_attach = function(client)
+    vim.api.nvim_create_autocmd("BufWritePost", {
+      pattern = { "*.js", "*.ts" },
+      callback = function(ctx)
+        client.notify("$/onDidChangeTsOrJsFile", { uri = ctx.match })
+      end,
+    })
+  end,
+  capabilities = capabilities,
+
+}
 
 -- require("flutter-tools").setup {
 --   on_attach = on_attach,
