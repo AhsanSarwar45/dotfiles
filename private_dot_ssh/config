@@ -1,0 +1,26 @@
+Host github.com
+   HostName github.com
+   IdentityFile ~/.ssh/id_ed25519
+   IdentitiesOnly yes
+
+Host github-tapforce
+   HostName github.com
+   IdentityFile ~/.ssh/id_ed25519_tapforce
+   IdentitiesOnly yes
+
+Host gitea.server.vicolo.studio
+   HostName gitea.server.vicolo.studio
+   IdentityFile ~/.ssh/id_ed25519
+   IdentitiesOnly yes
+   
+Host github-azeem
+   HostName github.com
+   IdentityFile ~/.ssh/id_ed25519_azeem 
+   IdentitiesOnly yes
+   User azeem-io
+
+Host github-azeem-tapforce
+   HostName github.com
+   IdentityFile ~/.ssh/id_ed25519_azeem_tapforce
+   IdentitiesOnly yes
+   User azeem-swr
